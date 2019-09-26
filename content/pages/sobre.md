@@ -6,7 +6,7 @@ Status: published
 
 ## Família
 
-[<img src="{static}/images/familia/familia001.jpg" alt="Família" class="center">]({static}/images/familia/familia001.jpg)
+<img src="{static}/images/familia/familia001.jpg" alt="Família" class="center" style="margin-top: 0;">
 
 ## Sobre
 

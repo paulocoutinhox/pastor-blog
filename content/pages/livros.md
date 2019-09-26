@@ -1,14 +1,13 @@
 Title: Livros
+Subtitle: Livros que escrevi para edificar a outros
 Date: 2019-09-24 03:30
 Author: paulo
 Slug: livros
 Status: published
 
-Esta página é dedicada aos livros que escrevi.
-
 ### Ele quer te salvar
 
-[<img src="{static}/images/livros/ele-quer-te-salvar.png" alt="Ele quer te salvar" style="width: auto; height: 200px">]({static}/images/livros/ele-quer-te-salvar.png)
+<img src="{static}/images/livros/ele-quer-te-salvar.png" alt="Ele quer te salvar" style="width: auto; height: 200px">
 
 **Sinopse:**
 
