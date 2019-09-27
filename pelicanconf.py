@@ -94,11 +94,11 @@ NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho 2019"
 NID_FOOTER_HTML = ""
 
 # index.html
-NID_INDEX_HEAD_TITLE = "Início"
+NID_INDEX_HEAD_TITLE = "Home"
 NID_INDEX_HEADER_TITLE = "Meu blog pessoal para compartilhar conhecimento"
 NID_INDEX_HEADER_SUBTITLE = "Compartilhando conhecimento"
 NID_INDEX_CONTENT_TITLE = "Últimos posts"
-NID_INDEX_PAGE_NUMBER_TITLE = "página"
+NID_INDEX_PAGE_NUMBER_TITLE = "Página"
 
 # archives.html
 NID_ARCHIVES_HEAD_TITLE = "Arquivos"
