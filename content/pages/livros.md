@@ -3,7 +3,6 @@ Subtitle: Livros que escrevi para edificar a outros
 Date: 2019-09-24 03:30
 Author: paulo
 Slug: livros
-Status: published
 
 ### Ele quer te salvar
 

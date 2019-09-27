@@ -2,7 +2,6 @@ Title: Sobre
 Date: 2019-09-24 04:15
 Author: paulo
 Slug: sobre
-Status: published
 
 ## Família
 
