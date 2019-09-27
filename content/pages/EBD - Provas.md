@@ -1,4 +1,4 @@
-Title: Provas da Escola Bíblica
+Title: Provas
 Subtitle: Provas ministradas na Escola Bíblica
 Date: 2019-09-26 12:00
 Author: paulo
