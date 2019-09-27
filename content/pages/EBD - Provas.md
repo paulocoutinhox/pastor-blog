@@ -3,6 +3,7 @@ Subtitle: Provas ministradas na Escola Bíblica
 Date: 2019-09-26 12:00
 Author: paulo
 Slug: ebd-provas
+Summary: Provas ministradas na Escola Bíblica
 
 <img src="{static}/images/headers/ebd-provas.jpg" alt="Escola Bíblica - Provas" class="center" style="margin-top: 0;">
 

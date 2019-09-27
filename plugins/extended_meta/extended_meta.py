@@ -1,103 +1,141 @@
+# -*- coding: utf-8 -*- #
+"""
+Open Graph
+==========
+This plugin adds Open Graph Protocol tags to articles.
+Use like this in your base.html template:
+.. code-block:: jinja2
+  {% if article %}
+  {% for tag in article.ogtags %}
+  <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+  {% endfor %}
+  {% endif %}
+  {% if page  %}
+  {% for tag in page.ogtags %}
+  <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+  {% endfor %}
+  {% endif %}
+"""
+from __future__ import unicode_literals
+
+import os.path
+
+from pelican import generators, signals
+from pelican.utils import strftime
 from bs4 import BeautifulSoup
 from jinja2 import Markup
-from pelican import signals
-import textwrap
 
-META_ATTRIBUTES = (
-    "description",
-    "keywords",
-    "robots",
-    "og_title",
-    "og_description",
-    "og_url",
-    "og_image",
-)
 
-DEFAULT_ROBOTS = "index,follow"
-META_DESCRIPTION_LENGTH = 155
+def open_graph_tag_articles(content_generators):
+
+    for generator in content_generators:
+        if isinstance(generator, generators.ArticlesGenerator):
+            for article in (
+                generator.articles + generator.translations + generator.drafts
+            ):
+                open_graph_tag(article)
+        elif isinstance(generator, generators.PagesGenerator):
+            for page in generator.pages:
+                open_graph_tag(page)
+
+    return True
+
+
+def open_graph_tag(item):
+    ogtags = []
+
+    ogtags.append(("og:title", item.title))
+    ogtags.append(("og:type", "article"))
+
+    image = item.metadata.get("og_image", "")
+
+    if image:
+        ogtags.append(("og:image", image))
+    else:
+        soup = BeautifulSoup(item._content, "html.parser")
+        img_links = soup.find_all("img")
+
+        if len(img_links) > 0:
+            img_src = img_links[0].get("src")
+
+            if img_src.startswith("{attach}"):
+                img_path = os.path.dirname(item.source_path)
+                img_filename = img_src[8:]
+                img_src = os.path.join(img_path, img_filename)
+
+                if item.settings.get("SITEURL", ""):
+                    img_src = item.settings.get("SITEURL", "") + "/" + img_src
+            elif img_src.startswith(("{filename}", "|filename|")):
+                img_src = img_src[11:]
+
+                if item.settings.get("SITEURL", ""):
+                    img_src = item.settings.get("SITEURL", "") + "/" + img_src
+            elif img_src.startswith("{static}"):
+                img_src = img_src[9:]
+
+                if item.settings.get("SITEURL", ""):
+                    img_src = item.settings.get("SITEURL", "") + "/" + img_src
+            elif img_src.startswith("/static"):
+                img_src = img_src[8:]
+
+                if item.settings.get("SITEURL", ""):
+                    img_src = item.settings.get("SITEURL", "") + "/" + img_src
+            elif img_src.startswith("data:image"):
+                pass
+            elif not "http" in img_src:
+                if item.settings.get("SITEURL", ""):
+                    img_src = item.settings.get("SITEURL", "") + "/" + img_src
+
+            if not img_src:
+                if item.settings.get("DEFAULT_OG_IMAGE", ""):
+                    img_src = item.settings.get("DEFAULT_OG_IMAGE", "")
+
+            if img_src:
+                ogtags.append(("og:image", img_src))
+
+    url = os.path.join(item.settings.get("SITEURL", ""), item.url)
+    ogtags.append(("og:url", url))
+
+    default_summary = Markup(item.summary).striptags()
+    description = Markup.escape(item.metadata.get("og_description", default_summary))
+    ogtags.append(("og:description", description))
+
+    default_locale = item.settings.get("LOCALE", [])
+
+    if default_locale:
+        default_locale = default_locale[0]
+    else:
+        default_locale = ""
+
+    ogtags.append(("og:locale", item.metadata.get("og_locale", default_locale)))
+    ogtags.append(("og:site_name", item.settings.get("SITENAME", "")))
+
+    if hasattr(item, "date"):
+        ogtags.append(("article:published_time", strftime(item.date, "%Y-%m-%d")))
+
+    if hasattr(item, "modified"):
+        ogtags.append(("article:modified_time", strftime(item.modified, "%Y-%m-%d")))
+
+    if hasattr(item, "related_posts"):
+        for related_post in item.related_posts:
+            url = os.path.join(item.settings.get("SITEURL", ""), related_post.url)
+            ogtags.append(("og:see_also", url))
+
+    author_fb_profiles = item.settings.get("AUTHOR_FB_ID", {})
+
+    if len(author_fb_profiles) > 0:
+        for author in item.authors:
+            if author.name in author_fb_profiles:
+                ogtags.append(("article:author", author_fb_profiles[author.name]))
+
+    ogtags.append(("article:section", item.category.name))
+
+    if hasattr(item, "tags"):
+        for tag in item.tags:
+            ogtags.append(("article:tag", tag.name))
+
+    item.ogtags = ogtags
 
 
 def register():
-    signals.article_generator_finalized.connect(ExtendedMeta.add_meta_to_articles)
-
-
-class ExtendedMeta:
-    settings = {}
-
-    @classmethod
-    def add_meta_to_articles(cls, generator):
-        cls.settings = generator.settings
-
-        for article in generator.articles:
-            cls.create_meta_attribute(article)
-
-    @classmethod
-    def create_meta_attribute(cls, article):
-        article.meta = {"canonical": cls.get_canonical(article)}
-
-        for key in META_ATTRIBUTES:
-            article_attrib = "meta_%s" % key
-
-            if hasattr(article, article_attrib):
-                meta_value = Markup.escape(getattr(article, article_attrib))
-            else:
-                meta_value = getattr(cls, "get_default_%s" % article_attrib)(article)
-
-            article.meta[key] = meta_value
-
-    @classmethod
-    def get_canonical(cls, article):
-        return "{0}/{1}".format(cls.settings.get("SITEURL", ""), article.url)
-
-    @classmethod
-    def get_default_meta_description(cls, article):
-        summary = Markup(article.summary).striptags()
-        description = textwrap.wrap(summary, META_DESCRIPTION_LENGTH)[0]
-        description = Markup.escape(description)
-
-        if len(summary) > META_DESCRIPTION_LENGTH:
-            return description + "..."
-        else:
-            return description
-
-    @classmethod
-    def get_default_meta_keywords(cls, article):
-        return ", ".join([tag.slug for tag in article.tags])
-
-    @classmethod
-    def get_default_meta_robots(cls, article):
-        return DEFAULT_ROBOTS
-
-    @classmethod
-    def get_default_meta_og_title(cls, article):
-        return article.title
-
-    @classmethod
-    def get_default_meta_og_description(cls, article):
-        if hasattr(article, "meta_description"):
-            return Markup.escape(article.meta_description)
-
-        return cls.get_default_meta_description(article)
-
-    @classmethod
-    def get_default_meta_og_url(cls, article):
-        return cls.get_canonical(article)
-
-    @classmethod
-    def get_default_meta_og_image(cls, article):
-        parsed_content = BeautifulSoup(article.content, "html.parser")
-        img_tag = parsed_content.find("img")
-
-        if not img_tag:
-            return cls.settings.get("DEFAULT_OG_IMAGE", "")
-
-        img_attrs = dict(img_tag.attrs)
-        src = img_attrs["src"]
-
-        if "http://" in src:
-            return src
-
-        if src[0] == "/":
-            src = src[0:]
-
-        return "{0}/{1}".format(cls.settings.get("SITEURL"), src)
+    signals.all_generators_finalized.connect(open_graph_tag_articles)

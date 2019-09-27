@@ -2,6 +2,7 @@ Title: Sobre
 Date: 2019-09-24 04:15
 Author: paulo
 Slug: sobre
+Summary: Paulo Coutinho é um pastor apaixonado por vidas e pelo ministério de ensino, aproximando as pessoas de Deus
 
 ## Família
 
