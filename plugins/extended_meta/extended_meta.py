@@ -3,9 +3,17 @@ from jinja2 import Markup
 from pelican import signals
 import textwrap
 
-META_ATTRIBUTES = ('description', 'keywords', 'robots', 'og_title',
-                   'og_description', 'og_url', 'og_image', )
-DEFAULT_ROBOTS = 'index,follow'
+META_ATTRIBUTES = (
+    "description",
+    "keywords",
+    "robots",
+    "og_title",
+    "og_description",
+    "og_url",
+    "og_image",
+)
+
+DEFAULT_ROBOTS = "index,follow"
 META_DESCRIPTION_LENGTH = 155
 
 
@@ -25,9 +33,7 @@ class ExtendedMeta:
 
     @classmethod
     def create_meta_attribute(cls, article):
-        article.meta = {
-            'canonical': cls.get_canonical(article),
-        }
+        article.meta = {"canonical": cls.get_canonical(article)}
 
         for key in META_ATTRIBUTES:
             article_attrib = "meta_%s" % key
@@ -41,7 +47,7 @@ class ExtendedMeta:
 
     @classmethod
     def get_canonical(cls, article):
-        return "{0}/{1}".format(cls.settings.get('SITEURL', ''), article.url)
+        return "{0}/{1}".format(cls.settings.get("SITEURL", ""), article.url)
 
     @classmethod
     def get_default_meta_description(cls, article):
@@ -50,13 +56,13 @@ class ExtendedMeta:
         description = Markup.escape(description)
 
         if len(summary) > META_DESCRIPTION_LENGTH:
-            return description + '...'
+            return description + "..."
         else:
             return description
 
     @classmethod
     def get_default_meta_keywords(cls, article):
-        return ', '.join([tag.slug for tag in article.tags])
+        return ", ".join([tag.slug for tag in article.tags])
 
     @classmethod
     def get_default_meta_robots(cls, article):
@@ -68,7 +74,7 @@ class ExtendedMeta:
 
     @classmethod
     def get_default_meta_og_description(cls, article):
-        if hasattr(article, 'meta_description'):
+        if hasattr(article, "meta_description"):
             return Markup.escape(article.meta_description)
 
         return cls.get_default_meta_description(article)
@@ -79,19 +85,19 @@ class ExtendedMeta:
 
     @classmethod
     def get_default_meta_og_image(cls, article):
-        parsed_content = BeautifulSoup(article.content, 'html.parser')
-        img_tag = parsed_content.find('img')
+        parsed_content = BeautifulSoup(article.content, "html.parser")
+        img_tag = parsed_content.find("img")
 
         if not img_tag:
-            return cls.settings.get('DEFAULT_OG_IMAGE', '')
+            return cls.settings.get("DEFAULT_OG_IMAGE", "")
 
         img_attrs = dict(img_tag.attrs)
-        src = img_attrs['src']
+        src = img_attrs["src"]
 
-        if 'http://' in src:
+        if "http://" in src:
             return src
 
-        if src[0] == '/':
+        if src[0] == "/":
             src = src[0:]
 
-        return "{0}/{1}".format(cls.settings.get('SITEURL'), src)
+        return "{0}/{1}".format(cls.settings.get("SITEURL"), src)

@@ -90,5 +90,6 @@ submodule-update:
 format:
 	black *conf.py
 	black content/
+	black plugins/
 
 .PHONY: html help clean regenerate serve serve-global devserver publish 

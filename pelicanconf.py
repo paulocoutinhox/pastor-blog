@@ -66,7 +66,11 @@ RELATIVE_URLS = False
 
 # Nid Template
 THEME = "nid"
-MENUITEMS = [("Início", "/"), ("Categorias", "/categories.html"), ("Tags", "/tags.html")]
+MENUITEMS = [
+    ("Início", "/"),
+    ("Categorias", "/categories.html"),
+    ("Tags", "/tags.html"),
+]
 
 # use minified CSS
 NID_CSS_MINIFY = True
