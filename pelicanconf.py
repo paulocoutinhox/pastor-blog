@@ -67,7 +67,7 @@ RELATIVE_URLS = False
 # Nid Template
 THEME = "nid"
 MENUITEMS = [
-    ("Início", "/"),
+    ("Home", "/"),
     ("Categorias", "/categories.html"),
     ("Tags", "/tags.html"),
 ]
