@@ -29,7 +29,7 @@ PLUGIN_PATHS = [
     os.path.join(PROJECT_PATH, "plugins"),
 ]
 
-PLUGINS = ["assets", "sitemap", "summary"]
+PLUGINS = ["assets", "sitemap", "summary", "extended_meta"]
 
 # Sitemap
 SITEMAP = {"format": "xml"}
