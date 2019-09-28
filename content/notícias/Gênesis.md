@@ -2,7 +2,7 @@ Title: Gênesis
 Date: 2019-09-24 05:00
 Author: paulo
 Category: Notícias
-Tags: notícias
+Tags: notícia
 
 A paz do Senhor,
 

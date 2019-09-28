@@ -2,7 +2,7 @@ Title: As cortinas do Tabernáculo
 Date: 2019-05-26 18:00
 Author: paulo
 Category: aulas
-Tags: aula, tabernáculo, tenda, deserto, cortinas, pano
+Tags: aula, tabernáculo, tenda, deserto, cortina, pano
 
 Aula sobre as cortinas do Tabernáculo construído no deserto
 

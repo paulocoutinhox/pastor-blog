@@ -2,7 +2,7 @@ Title: Grupos de judeus
 Date: 2018-11-07 18:00
 Author: paulo
 Category: aulas
-Tags: aula, judeus, fariseus
+Tags: aula, judeu, fariseu
 
 Aula sobre os diferentes grupos de judeus
 

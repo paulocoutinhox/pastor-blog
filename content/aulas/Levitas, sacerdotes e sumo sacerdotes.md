@@ -2,7 +2,7 @@ Title: Levitas, sacerdotes e sumo sacerdotes
 Date: 2019-07-21 18:00
 Author: paulo
 Category: aulas
-Tags: aula, tabernáculo, tenda, deserto, levitas, sacerdotes, sumo sacerdotes
+Tags: aula, tabernáculo, tenda, deserto, levita, sacerdote, sumo sacerdote
 
 Aula sobre quem eram os levitas, sacerdotes e sumo sacerdotes
 
