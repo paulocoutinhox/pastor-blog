@@ -23,4 +23,4 @@ Tópicos:
 - Nova Jerusalém
 - Conclusão
 
-- [Download](https://www.dropbox.com/s/bmmfd9sicc9hlml/Resumo%20do%20Livro%20do%20Apocalipse.pdf?dl=1)
+[Download](https://www.dropbox.com/s/bmmfd9sicc9hlml/Resumo%20do%20Livro%20do%20Apocalipse.pdf?dl=1)

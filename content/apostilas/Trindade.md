@@ -18,4 +18,4 @@ Tópicos:
 - Jesus é um anjo? O Espírito Santo é uma força?
 
 
-- [Download](https://www.dropbox.com/s/bj1xcfir42kj7zj/Trindade.pdf?dl=1)
+[Download](https://www.dropbox.com/s/bj1xcfir42kj7zj/Trindade.pdf?dl=1)

@@ -12,4 +12,4 @@ Ilustração sobre uma série de assuntos como fé, criação, evolução, refor
 Fala desde a criação até o mundo vindouro.
 
 
-- [Download](https://www.dropbox.com/s/ok3onej16gl7shb/EBD%20-%203T%20-%202017.pdf?dl=1)
+[Download](https://www.dropbox.com/s/ok3onej16gl7shb/EBD%20-%203T%20-%202017.pdf?dl=1)

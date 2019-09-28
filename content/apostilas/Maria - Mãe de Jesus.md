@@ -1,11 +1,11 @@
-Title: Didaquê
-Date: 2018-04-20 18:00
+Title: Maria, a Mãe de Jesus
+Date: 2017-06-17 18:00
 Author: paulo
 Category: apostilas
-Tags: apostila, didaquê, apóstolos
-Summary: Apostila sobre o Didaquê
+Tags: apostila, maria, mãe, jesus
+Summary: Apostila sobre Maria a Mãe de Jesus
 
-Apostila sobre o Didaquê.
+Apostila sobre Maria a Mãe de Jesus.
 
 Tópicos:
 
