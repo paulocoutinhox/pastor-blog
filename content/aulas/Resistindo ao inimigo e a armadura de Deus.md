@@ -6,4 +6,4 @@ Tags: aula, resistir, inimigo, armadura
 
 Aula sobre o que é de fato resistir ao inimigo e um pouco sobre a armadura de Deus
 
-- [Download](https://www.dropbox.com/s/hvlig6asu202130/AULA%20-%20EBD%20-%2010%3A02%3A2019.pdf?dl=1)
+[Download](https://www.dropbox.com/s/hvlig6asu202130/AULA%20-%20EBD%20-%2010%3A02%3A2019.pdf?dl=1)

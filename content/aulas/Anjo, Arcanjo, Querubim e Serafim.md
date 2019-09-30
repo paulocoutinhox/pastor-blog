@@ -6,4 +6,4 @@ Tags: aula, anjo, arcanjo, querubim, serafim
 
 Aula sobre os tipos de anjos: Anjo, Arcanjo, Querubim e Serafim
 
-- [Download](https://www.dropbox.com/s/hb4lgza6lsbiqy9/AULA%20-%20EBD%20-%2027%3A01%3A2019.pdf?dl=1)
+[Download](https://www.dropbox.com/s/hb4lgza6lsbiqy9/AULA%20-%20EBD%20-%2027%3A01%3A2019.pdf?dl=1)

@@ -6,4 +6,4 @@ Tags: aula, tabernáculo, tenda, deserto, altar, holocausto
 
 Aula sobre o altar de holocausto do Tabernáculo construído no deserto
 
-- [Download](https://www.dropbox.com/s/q3himnugsboux5k/Aula%20EBD%20-%2012_05_2019.pdf?dl=1)
+[Download](https://www.dropbox.com/s/q3himnugsboux5k/Aula%20EBD%20-%2012_05_2019.pdf?dl=1)

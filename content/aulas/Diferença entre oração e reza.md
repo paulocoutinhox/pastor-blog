@@ -6,4 +6,4 @@ Tags: aula, oração, reza
 
 Aula sobre a diferença entre a oração e a reza
 
-- [Download](https://www.dropbox.com/s/p0m1eiqu4yzevrn/AULA%20-%20DOMINGO%20-%2027%3A10%3A2018.pdf?dl=1)
+[Download](https://www.dropbox.com/s/p0m1eiqu4yzevrn/AULA%20-%20DOMINGO%20-%2027%3A10%3A2018.pdf?dl=1)
