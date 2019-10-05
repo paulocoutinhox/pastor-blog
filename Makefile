@@ -31,8 +31,9 @@ help:
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
-	@echo '   make ssh_upload                     upload the web site via SSH        '
-	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
+	@echo '   make ssh-upload                     upload the web site via SSH        '
+	@echo '   make rsync-upload                   upload the web site via rsync+ssh  '
+	@echo '   make git-upload                     upload content to git repository   '
 	@echo '   make get-vendor                     get all pelican plugins            '
 	@echo '   make format                         format all files                   '
 	@echo '   make submodule-update               update all git submodules          '
@@ -92,4 +93,7 @@ format:
 	black content/
 	black plugins/
 
+git-upload:
+	git add --all && git commit -am "updated content" && git push origin master
+	
 .PHONY: html help clean regenerate serve serve-global devserver publish 
