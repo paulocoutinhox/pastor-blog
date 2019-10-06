@@ -54,10 +54,15 @@ def open_graph_tag(item):
     else:
         soup = BeautifulSoup(item._content, "html.parser")
         img_links = soup.find_all("img")
+        img_src = ""
 
         if len(img_links) > 0:
             img_src = img_links[0].get("src")
+        else:
+            if item.settings.get("DEFAULT_OG_IMAGE", ""):
+                img_src = item.settings.get("DEFAULT_OG_IMAGE", "")
 
+        if img_src:
             if img_src.startswith("{attach}"):
                 img_path = os.path.dirname(item.source_path)
                 img_filename = img_src[8:]
@@ -86,12 +91,8 @@ def open_graph_tag(item):
                 if item.settings.get("SITEURL", ""):
                     img_src = item.settings.get("SITEURL", "") + "/" + img_src
 
-            if not img_src:
-                if item.settings.get("DEFAULT_OG_IMAGE", ""):
-                    img_src = item.settings.get("DEFAULT_OG_IMAGE", "")
-
-            if img_src:
-                ogtags.append(("og:image", img_src))
+        if img_src:
+            ogtags.append(("og:image", img_src))
 
     url = os.path.join(item.settings.get("SITEURL", ""), item.url)
     ogtags.append(("og:url", url))

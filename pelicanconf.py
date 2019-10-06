@@ -25,6 +25,8 @@ WEBASSETS = True
 
 SITEURL = "http://localhost:8000"
 
+DEFAULT_OG_IMAGE = "{static}/images/opengraph.png"
+
 # Plugins
 PLUGIN_PATHS = [
     os.path.join(PROJECT_PATH, "vendor"),
