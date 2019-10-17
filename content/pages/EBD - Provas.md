@@ -35,3 +35,4 @@ Summary: Provas ministradas na Escola Bíblica
 - [Prova EBD 26 - 2018 - As parábolas de Jesus](https://www.dropbox.com/s/4109dqgxhmoykhh/Prova%20EBD%2026%20-%202018.pdf?dl=1)
 - [Prova EBD 27 - 2019 - Batalha espiritual](https://www.dropbox.com/s/cv7w2vz1a568pzb/Prova%20EBD%2027%20-%202019.pdf?dl=1)
 - [Prova EBD 28 - 2019 - O tabernáculo](https://www.dropbox.com/s/0p8nw4tg97s2xr5/Prova%20EBD%2028%20-%202019.pdf?dl=1)
+- [Prova EBD 29 - 2019 - Mordomia cristã](https://www.dropbox.com/s/26myzsv3g6umrok/Prova%20EBD%2029%20-%202019.pdf?dl=1)
