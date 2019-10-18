@@ -111,7 +111,7 @@ NID_INDEX_PAGE_NUMBER_TITLE = "Página"
 NID_ARCHIVES_HEAD_TITLE = "Arquivos"
 NID_ARCHIVES_HEAD_DESCRIPTION = "Arquivos de posts"
 NID_ARCHIVES_HEADER_TITLE = "Arquivos"
-NID_ARCHIVES_HEADER_SUBTITLE = "Arquivos de todas os posts"
+NID_ARCHIVES_HEADER_SUBTITLE = "Arquivos de todos os posts"
 NID_ARCHIVES_CONTENT_TITLE = "Arquivos"
 
 # article.html
