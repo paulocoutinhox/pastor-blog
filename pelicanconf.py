@@ -33,7 +33,7 @@ PLUGIN_PATHS = [
     os.path.join(PROJECT_PATH, "plugins"),
 ]
 
-PLUGINS = ["assets", "sitemap", "summary", "extended_meta"]
+PLUGINS = ["assets", "sitemap", "summary", "extended_meta", "related_posts"]
 
 # Sitemap
 SITEMAP = {"format": "xml"}
@@ -50,6 +50,9 @@ ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
 
 DEFAULT_METADATA = {"status": "published"}
+
+# Related posts
+RELATED_POSTS_MAX = 10
 
 # Tag
 TAG_URL = "tag/{slug}.html"
@@ -115,6 +118,7 @@ NID_ARCHIVES_CONTENT_TITLE = "Arquivos"
 NID_ARTICLE_HEADER_BY = "Por"
 NID_ARTICLE_HEADER_MODIFIED = "modificado"
 NID_ARTICLE_HEADER_IN = "na categoria"
+NID_ARTICLE_RELATED_TITLE = "Outros conteúdos relacionados"
 
 # author.html
 NID_AUTHOR_HEAD_TITLE = "Posts de"
