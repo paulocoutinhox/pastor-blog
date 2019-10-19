@@ -45,12 +45,15 @@ def open_graph_tag(item):
     ogtags = []
 
     ogtags.append(("og:title", item.title))
+    ogtags.append(("twitter:title", item.title))
     ogtags.append(("og:type", "article"))
+    ogtags.append(("twitter:card", "summary"))
 
     image = item.metadata.get("og_image", "")
 
     if image:
         ogtags.append(("og:image", image))
+        ogtags.append(("twitter:image", image))
     else:
         soup = BeautifulSoup(item._content, "html.parser")
         img_links = soup.find_all("img")
@@ -93,6 +96,7 @@ def open_graph_tag(item):
 
         if img_src:
             ogtags.append(("og:image", img_src))
+            ogtags.append(("twitter:image", img_src))
 
     url = os.path.join(item.settings.get("SITEURL", ""), item.url)
     ogtags.append(("og:url", url))
@@ -100,6 +104,7 @@ def open_graph_tag(item):
     default_summary = Markup(item.summary).striptags()
     description = Markup.escape(item.metadata.get("og_description", default_summary))
     ogtags.append(("og:description", description))
+    ogtags.append(("twitter:description", description))
 
     default_locale = item.settings.get("LOCALE", [])
 
@@ -110,6 +115,7 @@ def open_graph_tag(item):
 
     ogtags.append(("og:locale", item.metadata.get("og_locale", default_locale)))
     ogtags.append(("og:site_name", item.settings.get("SITENAME", "")))
+    ogtags.append(("twitter:site", item.settings.get("SITENAME", "")))
 
     if hasattr(item, "date"):
         ogtags.append(("article:published_time", strftime(item.date, "%Y-%m-%d")))
