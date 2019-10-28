@@ -1,5 +1,5 @@
 Title: Os livros de Samuel
-Date: 2019-10-21 07:00
+Date: 2019-10-20 18:00
 Author: paulo
 Category: aulas
 Tags: aula, samuel, rei, profeta, sacerdote, siló, tabernáculo, eli, lâmpada
