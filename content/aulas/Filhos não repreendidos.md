@@ -1,5 +1,5 @@
 Title: Filhos não repreendidos
-Date: 2019-10-17 18:00
+Date: 2019-11-17 18:00
 Author: paulo
 Category: aulas
 Tags: aula, samuel, filhos, igreja, repreendido, pais, complacência, pecado, intencional, persistente
