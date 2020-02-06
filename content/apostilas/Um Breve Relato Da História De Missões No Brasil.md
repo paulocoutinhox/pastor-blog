@@ -5,6 +5,8 @@ Category: apostilas
 Tags: história, missões, missão, brasil, huguenote, igreja, presbiteriana, pentecostal, batista, congregacional, metodista, evangelização, autóctone
 Summary: Apostila sobre a história de missões no Brasil
 
+<img src="{static}/images/outros/missao-ajudar-logo.png" alt="Missão ajudar - José Wedson" style="width: auto; height: 200px">
+
 Apostila sobre a história de missões no Brasil produzida pelo Pastor José Wedson, que possui uma ONG chamada Missão Ajudar no nordeste brasileiro.
 
 Tópicos:
@@ -25,3 +27,5 @@ Tópicos:
 
 
 [Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/55aum11wnsnxn6q/Um%20Breve%20Relato%20Da%20Hist%C3%B3ria%20De%20Miss%C3%B5es%20No%20Brasil.pdf?dl=1)
+
+<img src="{static}/images/outros/missao-ajudar-conta.png" alt="Missão ajudar - Conta - José Wedson" style="width: auto; height: 300px">
