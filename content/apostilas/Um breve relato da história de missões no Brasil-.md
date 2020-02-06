@@ -1,4 +1,4 @@
-Title: Um Breve Relato Da História De Missões No Brasil
+Title: Um breve relato da história de missões no Brasil
 Date: 2020-02-06 12:00
 Author: paulo
 Category: apostilas
