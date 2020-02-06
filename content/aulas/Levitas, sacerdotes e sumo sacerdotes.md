@@ -6,4 +6,4 @@ Tags: aula, tabernáculo, tenda, deserto, levita, sacerdote, sumo sacerdote
 
 Aula sobre quem eram os levitas, sacerdotes e sumo sacerdotes
 
-[Download](https://www.dropbox.com/s/0oshpzf7xiumlkw/Aula%20EBD%20-%20Sacerdotes%20-%2021_07_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/0oshpzf7xiumlkw/Aula%20EBD%20-%20Sacerdotes%20-%2021_07_2019.pdf?dl=1)

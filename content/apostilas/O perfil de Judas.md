@@ -14,4 +14,4 @@ Tópicos:
 - Qual o resultado de alguém que tem sua moral corrompida?
 
 
-[Download](https://www.dropbox.com/s/yj8q6almgoyn9og/O%20perfil%20de%20Judas.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/yj8q6almgoyn9og/O%20perfil%20de%20Judas.pdf?dl=1)

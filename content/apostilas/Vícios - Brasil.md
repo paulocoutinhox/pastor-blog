@@ -14,4 +14,4 @@ Tópicos:
 - Bebidas
 
 
-[Download](https://www.dropbox.com/s/0ltt74cdwtgl2ik/V%C3%ADcios%20-%20Brasil.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/0ltt74cdwtgl2ik/V%C3%ADcios%20-%20Brasil.pdf?dl=1)

@@ -6,4 +6,4 @@ Tags: aula, tentação, pecado
 
 Aula sobre o que é tentação e as etapas do pecado
 
-[Download](https://www.dropbox.com/s/p3ophd1n6ckts7t/AULA%20-%20EBD%20-%2024%3A02%3A2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/p3ophd1n6ckts7t/AULA%20-%20EBD%20-%2024%3A02%3A2019.pdf?dl=1)

@@ -26,4 +26,4 @@ Tópicos:
 - Agradeça por uma repreensão, pois é sinal de que o Pai ainda te ama (Provérbios 3:11-12)
 - Deus pune o pecado persistente e intencional com a perda da capacidade de se corrigir, até mesmo de maneira temporal e não salvífica
 
-[Download](https://www.dropbox.com/s/t1ma95pj1evitq5/Aula%20EBD%20-%20Filhos%20n%C3%A3o%20repreendidos%20-%2010_11_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/t1ma95pj1evitq5/Aula%20EBD%20-%20Filhos%20n%C3%A3o%20repreendidos%20-%2010_11_2019.pdf?dl=1)

@@ -13,4 +13,4 @@ Tópicos:
 - O fabricante de tendas
 
 
-[Download](https://www.dropbox.com/s/m4llqtucdvymspc/O%20sustento%20de%20Paulo.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/m4llqtucdvymspc/O%20sustento%20de%20Paulo.pdf?dl=1)

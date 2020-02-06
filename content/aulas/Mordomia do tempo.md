@@ -23,4 +23,4 @@ Tópicos:
 - O tempo dos brasileiros na internet
 
 
-[Download](https://www.dropbox.com/s/3z70i45whfu8qba/Aula%20EBD%20-%20Mordomia%20do%20tempo%20-%2006_10_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/3z70i45whfu8qba/Aula%20EBD%20-%20Mordomia%20do%20tempo%20-%2006_10_2019.pdf?dl=1)

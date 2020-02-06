@@ -17,4 +17,4 @@ Tópicos:
 - Colheita
 
 
-[Download](https://www.dropbox.com/s/g64tkgned30myd6/Calend%C3%A1rio%20hebraico.png?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/g64tkgned30myd6/Calend%C3%A1rio%20hebraico.png?dl=1)

@@ -28,4 +28,4 @@ Tópicos:
 - Ana recebeu a benção e continuou servindo
 - Detalhes sobre o sumo sacerdote
 
-[Download](https://www.dropbox.com/s/8ff83yu6jvyp7vk/Aula%20EBD%20-%20O%20nascimento%20de%20Samuel%20e%20a%20Igreja%20de%20Eli%20-%2027_10_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/8ff83yu6jvyp7vk/Aula%20EBD%20-%20O%20nascimento%20de%20Samuel%20e%20a%20Igreja%20de%20Eli%20-%2027_10_2019.pdf?dl=1)

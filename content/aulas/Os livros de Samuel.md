@@ -21,4 +21,4 @@ Tópicos:
 - A lâmpada que não podia apagar
 
 
-[Download](https://www.dropbox.com/s/lbbhifwzxbwydmf/Aula%20EBD%20-%20Os%20livros%20de%20Samuel%20-%2020_10_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/lbbhifwzxbwydmf/Aula%20EBD%20-%20Os%20livros%20de%20Samuel%20-%2020_10_2019.pdf?dl=1)

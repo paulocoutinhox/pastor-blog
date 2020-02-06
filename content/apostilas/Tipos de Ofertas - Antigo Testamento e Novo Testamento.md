@@ -18,4 +18,4 @@ Tópicos:
 - Sacrifícios do Novo Testamento
 
 
-[Download](https://www.dropbox.com/s/aq09c24iprvn1v1/Tipos%20de%20Ofertas%20-%20Antigo%20Testamento%20e%20Novo%20Testamento.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/aq09c24iprvn1v1/Tipos%20de%20Ofertas%20-%20Antigo%20Testamento%20e%20Novo%20Testamento.pdf?dl=1)

@@ -6,4 +6,4 @@ Tags: aula, judeu, fariseu
 
 Aula sobre os diferentes grupos de judeus
 
-[Download](https://www.dropbox.com/s/h1ep00jxifdx180/AULA%20-%20EBD%20-%2007%3A11%3A2018.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/h1ep00jxifdx180/AULA%20-%20EBD%20-%2007%3A11%3A2018.pdf?dl=1)

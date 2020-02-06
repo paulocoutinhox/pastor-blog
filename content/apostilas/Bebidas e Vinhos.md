@@ -14,4 +14,4 @@ Tópicos:
 - No Novo Testamento
 - Conclusão
 
-[Download](https://www.dropbox.com/s/qakklpkblv2cbqe/Bebidas%20e%20Vinhos.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/qakklpkblv2cbqe/Bebidas%20e%20Vinhos.pdf?dl=1)

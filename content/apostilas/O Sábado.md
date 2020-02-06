@@ -18,4 +18,4 @@ Tópicos:
 - O sábado cristão
 
 
-[Download](https://www.dropbox.com/s/wfgp3mm7q92rhdm/O%20S%C3%A1bado.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/wfgp3mm7q92rhdm/O%20S%C3%A1bado.pdf?dl=1)

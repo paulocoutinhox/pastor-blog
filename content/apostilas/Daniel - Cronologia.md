@@ -14,4 +14,4 @@ Tópicos:
 - Ilustrações
 
 
-[Download](https://www.dropbox.com/s/lknnhrkjaloeg52/Daniel%20-%20Cronologia.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/lknnhrkjaloeg52/Daniel%20-%20Cronologia.pdf?dl=1)

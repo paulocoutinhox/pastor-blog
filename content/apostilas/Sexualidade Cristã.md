@@ -29,4 +29,4 @@ Tópicos:
 - Formas de sexo solitário (masturbação)
 
 
-[Download](https://www.dropbox.com/s/9mwgwzrurjl4wen/Sexualidade%20Crist%C3%A3.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/9mwgwzrurjl4wen/Sexualidade%20Crist%C3%A3.pdf?dl=1)

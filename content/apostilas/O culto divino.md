@@ -22,4 +22,4 @@ Tópicos:
 - Receber pela igreja
 
 
-[Download](https://www.dropbox.com/s/cg91l03pf5f3bd6/O%20culto%20divino.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/cg91l03pf5f3bd6/O%20culto%20divino.pdf?dl=1)

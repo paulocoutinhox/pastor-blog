@@ -20,4 +20,4 @@ Tópicos:
 - Nossa unção está em 2 Coríntios 1:21-22
 
 
-[Download](https://www.dropbox.com/s/vtdzm0vntm5vck3/Aula%20EBD%20-%20A%20un%C3%A7%C3%A3o%20nos%20separa%20para%20o%20prop%C3%B3sito%20de%20Deus%20e%20n%C3%A3o%20para%20o%20prop%C3%B3sito%20do%20homem%20-%2001_12_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/vtdzm0vntm5vck3/Aula%20EBD%20-%20A%20un%C3%A7%C3%A3o%20nos%20separa%20para%20o%20prop%C3%B3sito%20de%20Deus%20e%20n%C3%A3o%20para%20o%20prop%C3%B3sito%20do%20homem%20-%2001_12_2019.pdf?dl=1)

@@ -19,4 +19,4 @@ Tópicos:
 - Cartilha
 
 
-[Download](https://www.dropbox.com/s/gbczuqwgobo74k2/Ideologia%20de%20G%C3%AAnero.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/gbczuqwgobo74k2/Ideologia%20de%20G%C3%AAnero.pdf?dl=1)

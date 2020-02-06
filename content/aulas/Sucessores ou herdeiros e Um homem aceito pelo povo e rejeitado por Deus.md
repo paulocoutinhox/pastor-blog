@@ -34,4 +34,4 @@ Tópicos:
 - Outros erros depois que Saul atingiu seu auge
 
 
-[Download](https://www.dropbox.com/s/he3vxlshgg66wzu/Aula%20EBD%20-%20Sucessores%20ou%20herdeiros%20e%20Um%20homem%20aceito%20pelo%20povo%20e%20rejeitado%20por%20Deus%20-%2024_11_2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/he3vxlshgg66wzu/Aula%20EBD%20-%20Sucessores%20ou%20herdeiros%20e%20Um%20homem%20aceito%20pelo%20povo%20e%20rejeitado%20por%20Deus%20-%2024_11_2019.pdf?dl=1)

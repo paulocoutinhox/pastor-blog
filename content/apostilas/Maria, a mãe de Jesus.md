@@ -25,4 +25,4 @@ Tópicos:
 - Intercessora ou mediadora
 - Co-Redentora
 
-[Download](https://www.dropbox.com/s/11l9439uapnctky/Maria%2C%20a%20m%C3%A3e%20de%20Jesus.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/11l9439uapnctky/Maria%2C%20a%20m%C3%A3e%20de%20Jesus.pdf?dl=1)

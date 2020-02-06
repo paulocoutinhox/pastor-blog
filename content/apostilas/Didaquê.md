@@ -16,4 +16,4 @@ Tópicos:
 - Todos os capítulos
 
 
-[Download](https://www.dropbox.com/s/oghi5bg3jvar1n0/Didaqu%C3%AA.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/oghi5bg3jvar1n0/Didaqu%C3%AA.pdf?dl=1)

@@ -23,4 +23,4 @@ Tópicos:
 - Malaquias
 
 
-[Download](https://www.dropbox.com/s/70mc8dntta5ljpc/Escola%20B%C3%ADblica%20Sobre%20Os%2012%20Profetas%20Menores.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/70mc8dntta5ljpc/Escola%20B%C3%ADblica%20Sobre%20Os%2012%20Profetas%20Menores.pdf?dl=1)

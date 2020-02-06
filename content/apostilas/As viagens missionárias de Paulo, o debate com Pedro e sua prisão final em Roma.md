@@ -17,4 +17,4 @@ Tópicos:
 - Contém mapas e detalhes
 
 
-[Download](https://www.dropbox.com/s/ef8pms6dtcx57na/As%20viagens%20mission%C3%A1rias%20de%20Paulo%2C%20o%20debate%20com%20Pedro%20e%20sua%20pris%C3%A3o%20final%20em%20Roma.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/ef8pms6dtcx57na/As%20viagens%20mission%C3%A1rias%20de%20Paulo%2C%20o%20debate%20com%20Pedro%20e%20sua%20pris%C3%A3o%20final%20em%20Roma.pdf?dl=1)

@@ -20,4 +20,4 @@ Tópicos:
 - Caldeus ainda hoje
 
 
-[Download](https://www.dropbox.com/s/r1gkcuv41hn9r95/Babil%C3%B4nia.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/r1gkcuv41hn9r95/Babil%C3%B4nia.pdf?dl=1)

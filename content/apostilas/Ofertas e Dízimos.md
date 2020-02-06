@@ -20,4 +20,4 @@ Tópicos:
 - Constância
 - Conclusão
 
-[Download](https://www.dropbox.com/s/v8zba8sgdlumswf/Ofertas%20e%20D%C3%ADzimos.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/v8zba8sgdlumswf/Ofertas%20e%20D%C3%ADzimos.pdf?dl=1)

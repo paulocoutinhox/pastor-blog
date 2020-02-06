@@ -16,4 +16,4 @@ Tópicos:
 - Ilustrações
 
 
-[Download](https://www.dropbox.com/s/bkq9p84qye9nfyy/Israel%2C%20Daniel%20e%20as%20Profecias.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/bkq9p84qye9nfyy/Israel%2C%20Daniel%20e%20as%20Profecias.pdf?dl=1)

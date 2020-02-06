@@ -16,4 +16,4 @@ Tópicos:
 - JESUS no antigo testamento
 
 
-[Download](https://www.dropbox.com/s/1lcx682khvtv8s9/O%20Jota.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/1lcx682khvtv8s9/O%20Jota.pdf?dl=1)

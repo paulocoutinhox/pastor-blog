@@ -26,4 +26,4 @@ Tópicos:
 - Declarações Do Terra Nova
 
 
-[Download](https://www.dropbox.com/s/o8lknd08cwuy4ge/Cad%C3%AA%20os%20Tim%C3%B3teos%20do%20s%C3%A9culo%20presente.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/o8lknd08cwuy4ge/Cad%C3%AA%20os%20Tim%C3%B3teos%20do%20s%C3%A9culo%20presente.pdf?dl=1)

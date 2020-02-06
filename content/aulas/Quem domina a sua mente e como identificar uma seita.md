@@ -6,4 +6,4 @@ Tags: aula, mente, seita, igreja, filipos
 
 Aula sobre o foco do Apóstolo Paulo com aquilo que ocupa a nossa mente e um pouco sobre a Igreja de Filipos 
 
-[Download](https://www.dropbox.com/s/ikrzw2atysf9pz0/AULA%20-%20EBD%20-%2017%3A02%3A2019.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/ikrzw2atysf9pz0/AULA%20-%20EBD%20-%2017%3A02%3A2019.pdf?dl=1)

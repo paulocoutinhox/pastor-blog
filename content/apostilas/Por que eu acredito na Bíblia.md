@@ -17,4 +17,4 @@ Tópicos:
 - Manuscritos
 
 
-[Download](https://www.dropbox.com/s/frzz98drvx5ydy5/Por%20que%20eu%20acredito%20na%20B%C3%ADblia.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/frzz98drvx5ydy5/Por%20que%20eu%20acredito%20na%20B%C3%ADblia.pdf?dl=1)
