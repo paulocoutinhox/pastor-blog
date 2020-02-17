@@ -36,4 +36,3 @@ Summary: Provas ministradas na Escola Bíblica
 - [Prova EBD 27 - 2019 - Batalha espiritual](https://www.dropbox.com/s/cv7w2vz1a568pzb/Prova%20EBD%2027%20-%202019.pdf?dl=1)
 - [Prova EBD 28 - 2019 - O tabernáculo](https://www.dropbox.com/s/0p8nw4tg97s2xr5/Prova%20EBD%2028%20-%202019.pdf?dl=1)
 - [Prova EBD 29 - 2019 - Mordomia cristã](https://www.dropbox.com/s/26myzsv3g6umrok/Prova%20EBD%2029%20-%202019.pdf?dl=1)
-- [Prova EBD 30 - 2020 - O governo divino em mãos humanas](https://www.dropbox.com/s/qdxtewzjkpu4h3y/Prova%20EBD%2030%20-%202020.pdf?dl=1)
