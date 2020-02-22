@@ -43,11 +43,11 @@ O melhor, mais completo e com mais detalhes é este:
 
 [https://www.youtube.com/playlist?list=PL938Jrqs6YEGHvCvvCsASeJUpo8rOvPYN](https://www.youtube.com/playlist?list=PL938Jrqs6YEGHvCvvCsASeJUpo8rOvPYN)
 
-Este curso é importante pois foi feito em cima das aulas do professor David Calhoun, professor emérito de História da Igreja no Covenant Theological Seminary.
+O site da Igreja Batista Reformada Vida Nova de Florianópolis ([http://ibrvn.com/](http://ibrvn.com/)), disponibilizou este curso gratuito com apostila e palestras sobre História da Igreja, ministrados pelo Pastor Juliano Heyse, que usa como fonte as 72 aulas do Dr. David Calhoun, professor emérito de História da Igreja no Covenant Theological Seminary. Também usa como fontes os livros da série "História Ilustrada do Cristianismo" da Vida Nova.
 
 #### Apostila
 
-Junto com o curso em vídeo você pode baixar a apostila com os slides apresentados no vídeo e com todos os assuntos possíveis da história da igreja:
+Junto com o curso em vídeo você pode baixar a apostila com os slides apresentados no vídeo e com todos os assuntos possíveis sobre a história da igreja:
 
 [https://www.dropbox.com/s/9b1dhyxkevis0h2/Historia%20da%20Igreja%20-%20Impress%C3%A3o.pdf?dl=1](https://www.dropbox.com/s/9b1dhyxkevis0h2/Historia%20da%20Igreja%20-%20Impress%C3%A3o.pdf?dl=1)
 
