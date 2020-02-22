@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import datetime
 import os
 
 # General
@@ -95,7 +96,9 @@ NID_SITEMAP_RSS_LINK = "RSS Feed"
 NID_SOCIAL_COLUMN_TITLE = "Redes sociais"
 NID_LINKS_COLUMN_TITLE = "Links"
 NID_COPYRIGHT_COLUMN_TITLE = "Copyright"
-NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho 2019"
+
+now = datetime.datetime.now()
+NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho %s" % now.year
 
 # footer optional
 NID_FOOTER_HTML = ""
