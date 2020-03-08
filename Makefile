@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_REPO?=prsvc/blog
+GITHUB_REPO?=paulo-coutinho/pastor-blog
 
 DEBUG ?= 1
 ifeq ($(DEBUG), 1)
