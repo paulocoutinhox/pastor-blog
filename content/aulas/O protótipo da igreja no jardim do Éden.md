@@ -4,7 +4,7 @@ Author: paulo
 Category: aulas
 Tags: aula, protótipo, igreja, jardim, éden, jesus, adão, eva, homem, mulher, paulo, sinagoga, satanás
 
-Aula sobre a chamada profética de Ismael e o verdadeiro avivamento
+Aula sobre o prototipo da igreja estar implicitamente no jardim do Éden
 
 Tópicos:
 
