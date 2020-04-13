@@ -53,7 +53,7 @@ ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
 DEFAULT_METADATA = {"status": "published"}
 
 # Related posts
-RELATED_POSTS_MAX = 10
+RELATED_POSTS_MAX = 20
 
 # Tag
 TAG_URL = "tag/{slug}.html"
