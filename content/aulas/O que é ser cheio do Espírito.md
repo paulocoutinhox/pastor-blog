@@ -2,7 +2,7 @@ Title: O que é ser cheio do Espírito
 Date: 2020-04-26 18:00
 Author: paulo
 Category: aulas
-Tags: aula, espírito santo, vinho, éfeso, ásia menor, ásia romana, roma, diana, ártemis, província, estado, paulo, tarso, amor, santo, enganar, trevas, luz, separado, mundo, caráter
+Tags: aula, espírito santo, vinho, éfeso, ásia menor, ásia romana, roma, diana, ártemis, província, estado, paulo, tarso, amor, santo, enganar, trevas, luz, separado, mundo, caráter, efésios
 
 Aula sobre o que é ser cheio do Espírito
 
