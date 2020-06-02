@@ -37,6 +37,8 @@ help:
 	@echo '   make get-vendor                     get all pelican plugins            '
 	@echo '   make format                         format all files                   '
 	@echo '   make submodule-update               update all git submodules          '
+	@echo '   make install-plugins                install plugins into vendor folder '
+	@echo '   make python-deps                    install required dependencies      '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -95,5 +97,14 @@ format:
 
 git-upload:
 	git add --all && git commit -am "updated content" && git push origin master
-	
+
+install-plugins:
+	git clone --recursive https://github.com/getpelican/pelican-plugins vendor
+
+python-deps:
+	pip install webassets
+	pip install bs4
+	pip install Markdown
+	pip install typogrify
+
 .PHONY: html help clean regenerate serve serve-global devserver publish 

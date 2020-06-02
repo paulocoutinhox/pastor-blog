@@ -73,7 +73,7 @@ SOCIAL = (
 RELATIVE_URLS = False
 
 # Nid Template
-THEME = "nid"
+THEME = "/Users/paulo/Developer/workspaces/python/nid"
 MENUITEMS = [("Home", "/"), ("Categorias", "/categories.html"), ("Tags", "/tags.html")]
 
 # use minified CSS
