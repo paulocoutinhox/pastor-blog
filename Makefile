@@ -39,6 +39,7 @@ help:
 	@echo '   make submodule-update               update all git submodules          '
 	@echo '   make install-plugins                install plugins into vendor folder '
 	@echo '   make python-deps                    install required dependencies      '
+	@echo '   make cloudflare-clear-cache         clear cloudflare cache             '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -83,6 +84,7 @@ publish:
 	git commit -m "published new version"; \
 	git push "git@github.com:$(GITHUB_REPO).git" master:gh-pages --force && \
 	rm -rf .git
+	make cloudflare-clear-cache
 
 get-vendor:
 	test -d "vendor" || git submodule add https://github.com/getpelican/pelican-plugins.git vendor
@@ -106,5 +108,12 @@ python-deps:
 	pip install bs4
 	pip install Markdown
 	pip install typogrify
+
+cloudflare-clear-cache:
+	curl -X DELETE \
+      https://api.cloudflare.com/client/v4/zones/ed2995b035640a4f3acc7d3895dcece6/purge_cache \
+      -H 'Authorization: Bearer ${PRS_CLOUDFLARE_TOKEN}' \
+      -H 'Content-Type: application/json' \
+      -d '{ "purge_everything": true }'
 
 .PHONY: html help clean regenerate serve serve-global devserver publish 
