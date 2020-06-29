@@ -2,13 +2,13 @@ Title: Bondade e grandeza
 Date: 2020-06-21 18:00
 Author: paulo
 Category: aulas
-Tags: aula, jesus, efésios, bondade, grandeza, recomendação, escatológico, recompensa, bem, piedade, futuro, escravidão, igualdade, senhor, cristão, sofrimento, graça, crer, padecer, categoria, joabe, nabucodonosor, senaqueribe, isaque, elcana, josé, eli, acabe, abraão, paulo, balaão, sansão, salomão, salvação, bondade
+Tags: aula, jesus, efésios, bondade, grandeza, recomendação, escatológico, recompensa, bem, piedade, futuro, escravidão, igualdade, senhor, cristão, sofrimento, graça, crer, padecer, categoria, joabe, nabucodonosor, senaqueribe, isaque, elcana, josé, eli, acabe, abraão, paulo, balaão, sansão, salomão, salvação
 
 Aula sobre bondade e grandeza. Classificando os personagens biblicos em 4 categorias gerais e 1 categoria especial.
 
 Tópicos:
 
-- Texto: Efésios Efésios 6:8
+- Texto: Efésios 6:8
 - Recomendações do Ap. Paulo
 - O cristão e a escravidão
 - O chamado geral para todos os cristãos (Filipenses 1:29)
