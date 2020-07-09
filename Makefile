@@ -85,6 +85,7 @@ publish:
 	git push "git@github.com:$(GITHUB_REPO).git" master:gh-pages --force && \
 	rm -rf .git
 	make cloudflare-clear-cache
+	make cloudflare-clear-cache
 
 get-vendor:
 	test -d "vendor" || git submodule add https://github.com/getpelican/pelican-plugins.git vendor
