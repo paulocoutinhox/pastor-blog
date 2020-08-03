@@ -1,3 +1,5 @@
 pelican
 beautifulsoup4
 jinja2
+pelican-webassets
+markdown
