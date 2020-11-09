@@ -1,6 +1,6 @@
 Title: Ofertas e Dízimos
 Date: 2018-11-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, oferta, dízimo
 Summary: Apostila sobre ofertas e dízimos

@@ -1,6 +1,6 @@
 Title: Qual é a sua verdade?
 Date: 2018-12-02 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, verdade
 

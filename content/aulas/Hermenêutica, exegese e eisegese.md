@@ -1,6 +1,6 @@
 Title: Hermenêutica, exegese e eisegese
 Date: 2019-08-13 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, hermenêutica, exegese, eisegese
 

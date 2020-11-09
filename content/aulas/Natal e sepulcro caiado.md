@@ -1,6 +1,6 @@
 Title: Natal e sepulcro caiado
 Date: 2018-12-22 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, natal, festa, sepulcro
 

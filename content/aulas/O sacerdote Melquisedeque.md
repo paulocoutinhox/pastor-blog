@@ -1,6 +1,6 @@
 Title: O sacerdote Melquisedeque
 Date: 2020-09-06 07:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, melquisedeque, abraão, pão, vinho, sacerdote, representante, adão, sete, bem, mal, noé, sem, ceia, nação, tera, canaã, salém, jerusalém, ur dos caldeus, harã, filho, lei, aliança, testamento, santa ceia, sacerdócio, primogênito, levita, proposta, promessa
 

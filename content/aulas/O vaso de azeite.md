@@ -1,6 +1,6 @@
 Title: O vaso de azeite
 Date: 2020-10-25 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, palavra, vaso, azeite, profeta, zacarias, ageu, zorobabel, samaritano, ciro, dario, força, violência, espírito
 

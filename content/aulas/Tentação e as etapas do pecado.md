@@ -1,6 +1,6 @@
 Title: Tentação e as etapas do pecado
 Date: 2019-02-24 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tentação, pecado
 

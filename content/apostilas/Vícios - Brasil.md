@@ -1,6 +1,6 @@
 Title: Vícios - Brasil
 Date: 2018-06-08 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, vício, brasil
 Summary: Apostila sobre os vícios no Brasil

@@ -1,6 +1,6 @@
 Title: Não ultrapasseis o que está escrito
 Date: 2020-09-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, palavra, escritura, bíblia, ultrapassar, neemias, despertamento, exílio, assolação, levantar, intenção, opróbrio, ciro, filisteus, lázaro, medos, igreja, espírito, ruach, sopro, vento, hálito, fôlego, sofrimento
 

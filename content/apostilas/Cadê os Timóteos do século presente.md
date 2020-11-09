@@ -1,6 +1,6 @@
 Title: Cadê os Timóteos do século presente
 Date: 2013-07-26 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, movimento, apostólico, célula, m12, g12, mda, timóteo
 Summary: Apostila sobre os Timóteos do século presente

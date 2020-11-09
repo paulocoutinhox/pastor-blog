@@ -1,6 +1,6 @@
 Title: O culto divino
 Date: 2018-07-06 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, parábola, culto, divino
 Summary: Apostila sobre o culto divino

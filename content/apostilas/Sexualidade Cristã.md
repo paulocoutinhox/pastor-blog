@@ -1,6 +1,6 @@
 Title: Sexualidade Cristã
 Date: 2018-05-19 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, sexo, sexualidade, cristã, amor
 Summary: Apostila sobre a Sexualidade Cristã

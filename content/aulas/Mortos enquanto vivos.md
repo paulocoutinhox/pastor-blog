@@ -1,6 +1,6 @@
 Title: Mortos enquanto vivos
 Date: 2020-05-10 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, morto, vivo, éfeso, efésios, corpo, zumbi, morte espiritual, rebelião, prisão, maligna, diabo, desobediência, mundo, fé, prática, teórica, salvação, obra, cristo, celestial, graça
 

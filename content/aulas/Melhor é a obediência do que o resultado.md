@@ -1,6 +1,6 @@
 Title: Melhor é a obediência do que o resultado
 Date: 2020-10-04 07:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, obediência, resultado, feliz, triste, favor, reconstruir, sétimo, mês, tishrei, altar, ano novo, rosh hashaná, trombeta, yom kipur, festa dos tabernáculos, abandonado, quebrado, necessidade, sacrifício, holocausto, reparado, oposição, samaritanos, mistura, ezequias, reparar
 

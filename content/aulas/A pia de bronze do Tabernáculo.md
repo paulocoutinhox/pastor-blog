@@ -1,6 +1,6 @@
 Title: A pia de bronze do Tabernáculo
 Date: 2019-05-19 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, pia, bronze, cobre
 

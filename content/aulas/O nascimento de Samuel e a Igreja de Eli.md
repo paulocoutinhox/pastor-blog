@@ -1,6 +1,6 @@
 Title: O nascimento de Samuel e a Igreja de Eli
 Date: 2019-10-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, samuel, nascimento, elcana, ana, sacerdote, siló, tabernáculo, eli, menino, igreja, pecado
 

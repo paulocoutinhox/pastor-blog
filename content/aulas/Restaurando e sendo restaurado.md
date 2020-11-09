@@ -1,6 +1,6 @@
 Title: Restaurando e sendo restaurado
 Date: 2020-09-20 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, restauração, esdras, neemias, restaurar, restaurando, palavra, oração, jejum, monte, promessa, resposta, desobediência, obediência, coração, irrepreensível, transformação, dentro, fora, arca da aliança, testemunho, propiciatório, muro, templo, casa, externo, interno
 

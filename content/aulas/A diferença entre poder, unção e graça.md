@@ -1,6 +1,6 @@
 Title: A diferença entre poder, unção e graça
 Date: 2020-07-19 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, poder, unção, graça, misericórdia, vontade, bondade, salvação, autoridade, sobrenatural, força, capacidade, função, ungir, óleo, azeite, sacerdote, rei, profeta, tabernáculo, espírito santo, malaquias, favor, pecado
 

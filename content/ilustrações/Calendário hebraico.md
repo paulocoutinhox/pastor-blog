@@ -1,6 +1,6 @@
 Title: Calendário hebraico
 Date: 2019-04-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: ilustrações
 Tags: ilustração, calendário, hebraico
 Summary: Ilustração do calendário hebraico

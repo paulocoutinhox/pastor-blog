@@ -1,6 +1,6 @@
 Title: Jó e o reino de satanás
 Date: 2018-11-14 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jó, satanás, reino, pedro, judas
 

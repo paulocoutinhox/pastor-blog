@@ -1,6 +1,6 @@
 Title: Paciência no sofrimento
 Date: 2020-11-08 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jó, paciência, sofrimento, confiança, uz, edom, chuva, serôdia, temporã, tiago, profeta, amadurecimento, ministerio, recuar, espírito santo, palavra
 

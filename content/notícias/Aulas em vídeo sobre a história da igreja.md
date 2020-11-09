@@ -1,6 +1,6 @@
 Title: Aulas em vídeo sobre a história da igreja
 Date: 2020-02-22 02:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: Notícias
 Tags: notícia, história, igreja, católica, roma, romana, cristão, mártir, pais da igreja, heresia, perseguição, lutero, calvino, mundo, escravidão, politeísmo, cânon, bíblia, depravassão, salvação, vídeo, online, cristianismo
 

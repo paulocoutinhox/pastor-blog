@@ -1,6 +1,6 @@
 Title: Grupos de judeus
 Date: 2018-11-07 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, judeu, fariseu
 

@@ -1,6 +1,6 @@
 Title: Trindade
 Date: 2014-12-29 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, trindade, deus, jesus, espírito santo, um, três, doutrina
 Summary: Apostila sobre a doutrina da Trindade

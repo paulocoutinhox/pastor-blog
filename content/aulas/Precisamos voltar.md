@@ -1,6 +1,6 @@
 Title: Precisamos voltar
 Date: 2020-09-13 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, voltar, restauração, esdras, sacerdote, levita, jerusalém, israel, luz, corpo, glória, cativeiro, santificação, daniel, jeremias, esperança, paciência, babilônia, paulo
 

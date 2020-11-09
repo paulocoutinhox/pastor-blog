@@ -1,6 +1,6 @@
 Title: Escola Bíblica Sobre Os 12 Profetas Menores
 Date: 2012-12-29 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, profeta, oséias, joel, amós, obadias, jonas, miquéias, naum, habacuque, sofonias, ageu, zacarias, malaquias
 Summary: Apostila sobre os 12 Profetas Menores

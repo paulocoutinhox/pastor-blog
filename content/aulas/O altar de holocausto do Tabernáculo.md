@@ -1,6 +1,6 @@
 Title: O altar de holocausto do Tabernáculo
 Date: 2019-05-12 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, altar, holocausto
 

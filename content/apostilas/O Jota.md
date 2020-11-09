@@ -1,6 +1,6 @@
 Title: O Jota
 Date: 2015-03-28 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, bíblia, jota, jesus, til
 Summary: Apostila sobre o Jota, o til e o nome de Jesus

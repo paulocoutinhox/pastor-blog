@@ -1,6 +1,6 @@
 Title: Mordomia do tempo
 Date: 2019-10-06 07:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, mordomia, tempo, chronos, kairos, homem, deus
 

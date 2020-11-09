@@ -1,6 +1,6 @@
 Title: Gênesis
 Date: 2019-09-24 05:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: Notícias
 Tags: notícia
 

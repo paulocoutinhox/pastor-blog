@@ -1,6 +1,6 @@
 Title: Os treze atributos de Deus e nove do homem
 Date: 2020-10-18 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, palavra, atributos, deus, treze, nove, homem, misericórdia, senhor, adonai
 

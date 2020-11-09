@@ -1,6 +1,6 @@
 Title: Tipos de Ofertas - Antigo Testamento e Novo Testamento
 Date: 2018-07-05 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, oferta, dízimo, antigo testamento, novo testamento
 Summary: Apostila sobre os tipos de ofertas no Antigo Testamento e Novo Testamento

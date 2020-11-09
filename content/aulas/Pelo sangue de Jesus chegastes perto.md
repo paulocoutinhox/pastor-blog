@@ -1,6 +1,6 @@
 Title: Pelo sangue de Jesus chegastes perto
 Date: 2020-06-07 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, sangue, partícula adversativa, cálice, ceia, santa ceia, memorial, água, juízo, muro, separação, paz, justificação, reconciliação, parede, templo, pátio, gentio, flávio josefo, wycliffe, herodes, novo homem
 

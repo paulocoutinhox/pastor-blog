@@ -1,6 +1,6 @@
 Title: O perfil de Judas
 Date: 2018-05-16 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, judas, perfil, ética, moral
 Summary: Apostila sobre o perfil de Judas

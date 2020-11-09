@@ -1,6 +1,6 @@
 Title: Podemos edificar mas não podemos mudar o fundamento
 Date: 2020-10-11 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, edificar, edificação, templo, fundamento, alicerce, jesus, igreja, prioridade, altar, propósito, alegria, motivação, pentecostal, pentecostes, william seymour, espírito santo, assembléia de deus, neopentecostalismo, misericórdia, fogo, esar-hadom, assaradão, assíria, falso, profano, santo
 

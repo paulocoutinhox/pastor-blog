@@ -1,6 +1,6 @@
 Title: A verdadeira batalha espiritual
 Date: 2019-01-13 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, movimento, batalha, espiritual
 

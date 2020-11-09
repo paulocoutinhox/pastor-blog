@@ -1,6 +1,6 @@
 Title: Levitas, sacerdotes e sumo sacerdotes
 Date: 2019-07-21 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, levita, sacerdote, sumo sacerdote
 

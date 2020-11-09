@@ -1,7 +1,7 @@
 Title: Livros
 Subtitle: Livros que escrevi para edificar a outros
 Date: 2019-09-24 03:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Slug: livros
 Summary: Livros que escrevi para edificar a outros
 

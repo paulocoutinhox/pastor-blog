@@ -1,6 +1,6 @@
 Title: O selo do Espírito Santo
 Date: 2020-05-03 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, selo, espírito santo, efésios, ásia menor, ásia romana, éfeso, prosperidade, material, espiritual, bênção, região celestial, autoridade, responsabilidade, graça, glória, redenção, remissão, propriedade
 

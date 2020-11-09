@@ -1,6 +1,6 @@
 Title: Plano de leitura em 6 meses
 Date: 2018-03-15 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, plano, leitura, bíblia
 Summary: Plano de leitura em 6 meses

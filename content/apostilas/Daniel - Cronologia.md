@@ -1,6 +1,6 @@
 Title: Daniel - Cronologia
 Date: 2014-11-09 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, daniel, cronologia
 Summary: Apostila sobre a cronologia de Daniel

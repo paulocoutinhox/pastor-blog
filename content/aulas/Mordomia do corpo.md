@@ -1,6 +1,6 @@
 Title: Mordomia do corpo
 Date: 2019-09-08 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, mordomia, corpo, luz, adão, ressurreição, templo, espírito santo, pecado, prostituição, adultério, fornicação, homossexualidade, transexualidade
 

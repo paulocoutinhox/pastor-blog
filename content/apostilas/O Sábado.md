@@ -1,6 +1,6 @@
 Title: O Sábado
 Date: 2017-02-18 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, sábado, lei
 Summary: Apostila sobre o Sábado

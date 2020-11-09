@@ -1,6 +1,6 @@
 Title: Maria, a mãe de Jesus
 Date: 2017-06-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, maria, mãe, jesus
 Summary: Apostila sobre Maria a mãe de Jesus

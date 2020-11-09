@@ -1,6 +1,6 @@
 Title: Circuncisão e incircuncisão
 Date: 2020-05-24 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, circuncisão, incircuncisão, abraão, aliança, pacto, jesus, coração, tomé, homem, mulher, promessa, fé, sangue, tomé
 

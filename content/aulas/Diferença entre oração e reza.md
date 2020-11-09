@@ -1,6 +1,6 @@
 Title: Diferença entre a oração e a reza
 Date: 2018-10-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, oração, reza
 

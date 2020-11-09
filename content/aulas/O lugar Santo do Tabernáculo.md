@@ -1,6 +1,6 @@
 Title: O lugar Santo do Tabernáculo
 Date: 2019-06-02 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, santo
 

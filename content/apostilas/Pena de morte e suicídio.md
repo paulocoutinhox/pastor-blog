@@ -1,6 +1,6 @@
 Title: Pena de morte e suicídio
 Date: 2018-05-05 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, pena de morte, suicídio, morte, assassinato
 Summary: Apostila sobre a pena de morte e o suicídio
