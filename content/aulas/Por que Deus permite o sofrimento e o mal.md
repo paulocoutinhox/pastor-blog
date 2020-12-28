@@ -4,7 +4,7 @@ Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jó, sofrimento, mal, problema, tribulação, pergunta, resposta, tristeza, alegria, vida, morte, vento, maldição, ferida, saúde, bom, ruim, memória, esquecimento, natimorto, Jesus, fé, amor, palavra de deus, filho, legítimo, ilegítimo, bastardo, jó, jeremias, habacuque, abraão, moisés, rabbi jonathan sacks, judá, josé, justificar
 
-Aula lecionada dividia em quatro partes entre os dias 29/11/2020 até 20/12/2020 sobre uma pergunta bastante atual: Por que Deus permite o sofrimento e o mal?
+Aula dividida em quatro partes e lecionada entre os dias 29/11/2020 até 20/12/2020 sobre uma pergunta bastante atual: Por que Deus permite o sofrimento e o mal?
 
 Tópicos:
 
