@@ -2,7 +2,7 @@ Title: Os quatro amigos de Jó - Elifaz, Bildade, Zofar e Eliú
 Date: 2021-01-17 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
-Tags: aula, jó, amigo, elifaz, bildade, zofar, eliú, teologia
+Tags: aula, jó, amigo, elifaz, bildade, zofar, eliú, teologia, lei, semeadura, justiça, amor, misericórdia, soberania, bênção, maldição, pecado, tribulação, colher, plantar, ancião, conhecimento, sabedoria, novo, velho, discurso, uz, edom, pergunta, questionamento, dúvida, verdade, meia-verdade, bem, mal, morte, vida, vingador, redentor, salvação, esperança
 
 Aula mostrando o pensamento e a teologia dos quatro amigos de Jó - Elifaz, Bildade, Zofar e Eliú.
 
