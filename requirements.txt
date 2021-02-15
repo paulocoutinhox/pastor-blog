@@ -1,3 +1,8 @@
 pelican
 beautifulsoup4
 jinja2
+webassets
+markdown
+typogrify
+bs4
+black

@@ -37,3 +37,5 @@ Summary: Provas ministradas na Escola Bíblica
 - [Prova EBD 28 - 2019 - O tabernáculo](https://www.dropbox.com/s/0p8nw4tg97s2xr5/Prova%20EBD%2028%20-%202019.pdf?dl=1)
 - [Prova EBD 29 - 2019 - Mordomia cristã](https://www.dropbox.com/s/26myzsv3g6umrok/Prova%20EBD%2029%20-%202019.pdf?dl=1)
 - [Prova EBD 30 - 2020 - O governo divino em mãos humanas](https://www.dropbox.com/s/qdxtewzjkpu4h3y/Prova%20EBD%2030%20-%202020.pdf?dl=1)
+- [Prova EBD 31 - 2020 - Os princípios divinos em tempos de crise](https://www.dropbox.com/s/jh1wr1x7lraaxae/Prova%20EBD%2031%20-%202020.pdf?dl=1)
+- [Prova EBD 32 - 2021 - A fragilidade humana e a soberania divina](https://www.dropbox.com/s/4qep4hlwagu7b3u/Prova%20EBD%2032%20-%202021.pdf?dl=1)

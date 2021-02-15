@@ -105,10 +105,7 @@ install-plugins:
 	git clone --recursive https://github.com/getpelican/pelican-plugins vendor
 
 python-deps:
-	pip install webassets
-	pip install bs4
-	pip install Markdown
-	pip install typogrify
+	pip install -r requirements.txt --upgrade
 
 cloudflare-clear-cache:
 	curl -X DELETE \
