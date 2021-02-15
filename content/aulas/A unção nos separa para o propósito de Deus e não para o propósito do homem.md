@@ -1,6 +1,6 @@
 Title: A unção nos separa para o propósito de Deus e não para o propósito do homem
 Date: 2019-12-01 07:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, samuel, saul, davi, unção, propósito, deus, homem, ungido, senhor, rei, profeta, sacerdote, espírito santo, qualificações, chamado, fama, integrida
 

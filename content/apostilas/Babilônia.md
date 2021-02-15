@@ -1,6 +1,6 @@
 Title: Babilônia
 Date: 2014-12-21 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, babilônia, caldeu
 Summary: Apostila sobre a Babilônia

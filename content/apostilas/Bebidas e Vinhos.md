@@ -1,6 +1,6 @@
 Title: Bebidas e Vinhos
 Date: 2018-11-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, bebida, vinho
 Summary: Apostila sobre bebidas e vinho

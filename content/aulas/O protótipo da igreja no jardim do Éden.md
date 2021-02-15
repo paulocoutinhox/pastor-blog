@@ -1,6 +1,6 @@
 Title: O protótipo da igreja no jardim do Éden
 Date: 2020-03-08 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, protótipo, igreja, jardim, éden, jesus, adão, eva, homem, mulher, paulo, sinagoga, satanás
 

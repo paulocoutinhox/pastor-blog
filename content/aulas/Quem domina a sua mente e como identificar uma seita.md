@@ -1,6 +1,6 @@
 Title: Quem domina a sua mente e como identificar uma seita
 Date: 2019-02-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, mente, seita, igreja, filipos
 

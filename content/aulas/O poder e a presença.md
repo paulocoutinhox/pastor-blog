@@ -1,6 +1,6 @@
 Title: O poder e a presença
 Date: 2020-07-05 07:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, poder, presença, oração, amor, fortalecida, habitada, plenitude, espírito santo, joelhos, paternidade, filhos no jardim, prefigurar, adão, riqueza, ploutos, doxa, glória, dunamis, interior, exterior, pecado, firme, oscilação, constância, inconstância, nicolaítas, balaão, jezabel, inácio, tertuliano, antinomianismo
 

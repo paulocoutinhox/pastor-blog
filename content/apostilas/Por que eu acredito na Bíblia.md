@@ -1,6 +1,6 @@
 Title: Por que eu acredito na Bíblia
 Date: 2016-04-12 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, acreditar, bíblia, verdade, espada
 Summary: Apostila sobre porque eu acredito na Bíblia

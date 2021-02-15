@@ -1,6 +1,6 @@
 Title: Casamento nos templos bíblicos
 Date: 2018-12-16 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, casamento
 

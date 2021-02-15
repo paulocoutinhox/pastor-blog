@@ -1,6 +1,6 @@
 Title: Mordomia cristã
 Date: 2019-08-02 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, mordomia
 

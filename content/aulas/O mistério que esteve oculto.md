@@ -1,6 +1,6 @@
 Title: O mistério que esteve oculto
 Date: 2020-06-28 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, judeu, gentio, prisioneiro, revelação, mistério, oculto, paulo, pedro, união, igualdade, apocalipse, desobediência, raça, servo, sofredor, promessa, abraão, fé, morte, ressurreição, jesus, sombra, modelo, tipo, antítipo, isaque, elias, davi, isaías, jeremias, miquéias, ageu, moisés, tabernáculo, pai
 

@@ -1,6 +1,6 @@
 Title: Um líder segundo a vontade de Deus
 Date: 2020-05-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, líder, liderança, liderado, exemplo, capacidade, desenvolvimento, chamado, Deus, preparação, humilhação, ministério, obreiro, ministro, direção, transformação, progresso, bíblia, estudo, oração, história, igreja, Hudson Taylor, Martyn Lloyd-Jones
 

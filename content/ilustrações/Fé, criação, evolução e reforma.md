@@ -1,6 +1,6 @@
 Title: Fé, criação, evolução e reforma
 Date: 2019-09-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: ilustrações
 Tags: ilustração, fé, criação, evolução, reforma, dinossauro, pecado, igreja, santidade, espírito, santo, espírito santo, jesus, trindade
 Summary: Ilustração sobre uma série de assuntos como fé, criação, evolução, reforma, dinossauro, pecado, igreja, santidade, espírito, santo, espírito santo, jesus, trindade

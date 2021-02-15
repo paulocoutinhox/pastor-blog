@@ -1,6 +1,6 @@
 Title: A igreja
 Date: 2019-10-17 19:45
-Author: paulo
+Author: Pastor Paulo Coutinho
 Slug: a-igreja
 Summary: Sobre a Igreja Pentecostal do Deus Vivo
 Subtitle: Igreja Pentecostal do Deus Vivo - Ministério Homens de Fé

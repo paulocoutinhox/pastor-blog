@@ -1,6 +1,6 @@
 Title: O movimento de batalha espiritual
 Date: 2019-01-06 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, movimento, batalha, espiritual
 

@@ -1,8 +1,13 @@
 pelican
 beautifulsoup4
 jinja2
+<<<<<<< HEAD
 webassets
 markdown
 typogrify
 bs4
 black
+=======
+pelican-webassets
+markdown
+>>>>>>> 3b56ac127e6d9b73d4aa5353bd8468b4e31bd0fb

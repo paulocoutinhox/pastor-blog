@@ -1,6 +1,6 @@
 Title: História da Igreja
 Date: 2020-02-16 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, história, igreja, católica, roma, romana, cristão, mártir, pais da igreja, heresia, perseguição, lutero, calvino, mundo, escravidão, politeísmo, cânon, bíblia, depravassão, salvação
 

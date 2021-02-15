@@ -1,6 +1,6 @@
 Title: Parábola
 Date: 2018-10-04 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, parábola, jesus, história
 Summary: Apostila sobre as parábolas de Jesus

@@ -1,6 +1,6 @@
 Title: Um breve relato da história de missões no Brasil
 Date: 2020-02-06 12:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: história, missões, missão, brasil, huguenote, igreja, presbiteriana, pentecostal, batista, congregacional, metodista, evangelização, autóctone
 Summary: Apostila sobre a história de missões no Brasil

@@ -1,6 +1,6 @@
 Title: O Celibato
 Date: 2018-06-03 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, celibato, casamento
 Summary: Apostila sobre o celibato

@@ -1,6 +1,6 @@
 Title: A chamada profética de Ismael e o verdadeiro avivamento
 Date: 2019-11-03 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, samuel, avivamento, chifre, unção, profeta, chamado, israel, avivar, palavra, vaso, ânfora, frasco
 

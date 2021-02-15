@@ -1,6 +1,6 @@
 Title: Anjo, Arcanjo, Querubim e Serafim
 Date: 2019-01-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, anjo, arcanjo, querubim, serafim
 

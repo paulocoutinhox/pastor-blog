@@ -1,9 +1,34 @@
 Title: Livros
 Subtitle: Livros que escrevi para edificar a outros
 Date: 2019-09-24 03:30
-Author: paulo
+Author: Pastor Paulo Coutinho
 Slug: livros
 Summary: Livros que escrevi para edificar a outros
+
+### Desafios da Igreja
+
+<img src="{static}/images/livros/desafios-da-igreja.png" alt="Desafios da Igreja" style="width: auto; height: 200px">
+
+**Sinopse:**
+
+Podemos entender a Bíblia como um grande painel iluminado com as instruções de como seguir na estrada da vida, mas infelizmente nem todos querem seguir pelas vias indicadas e já sinalizadas, preferindo andar em seus próprios caminhos.
+
+E foi justamente com este pensamento que esta obra foi idealizada, para trazer a vida de volta para a estrada indicada, apresentando um antídoto para cada desafio que a igreja está enfrentando nos últimos anos.
+
+Cada assunto contém propostas bíblicas pensadas para indicar o caminho que mais aproxima um cristão do seu Senhor.
+
+Tendo como meta final produzir não apenas respostas, mas maturidade intelectual e teológica para resolver não só os desafios aqui propostos, mas os que ainda surgirão.
+
+**ISBN:** 9786500109771
+
+**Autor:** Pastor Paulo Coutinho
+
+**Onde adquirir a versão impresa?**
+
+[<img src="{static}/images/empresas/bok2.png" alt="BOK2" style="width: auto; height: 30px;">](https://www.livrariadabok2.com.br/desafios-da-igreja)
+
+[<img src="{static}/images/empresas/amazon.png" alt="Amazon" style="width: auto; height: 30px">](https://www.amazon.com.br/Desafios-Igreja-Paulo-Coutinho/dp/6500109775)
+
 
 ### Ele quer te salvar
 
@@ -30,6 +55,8 @@ Espero que após a leitura desta obra, o leitor passe a usar Bíblia como manual
 [<img src="{static}/images/empresas/americanas.png" alt="Americanas" style="width: auto; height: 30px">](https://www.americanas.com.br/produto/47354961/ele-quer-te-salvar)
 
 [<img src="{static}/images/empresas/submarino.png" alt="Submarino" style="width: auto; height: 30px">](https://www.submarino.com.br/produto/47354961/ele-quer-te-salvar)
+
+[<img src="{static}/images/empresas/amazon.png" alt="Amazon" style="width: auto; height: 30px">](https://www.amazon.com.br/Ele-quer-salvar-Paulo-Coutinho/dp/6590068208)
 
 **Onde adquirir a versão digital (audiobook & ebook)?**
 

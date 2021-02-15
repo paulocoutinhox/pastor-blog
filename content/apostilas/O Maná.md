@@ -1,6 +1,6 @@
 Title: O Maná
 Date: 2018-06-03 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, maná, pão, jesus, cristo, carne
 Summary: Apostila sobre o Maná

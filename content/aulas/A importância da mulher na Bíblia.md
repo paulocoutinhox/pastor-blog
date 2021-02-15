@@ -1,6 +1,6 @@
 Title: A importância da mulher na Bíblia
 Date: 2020-03-15 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, mulher, esposa, família, importante, bíblia, homossexualidade, osso, carne, homem, água, sangue, raabe, ester, lídia, loide, eunice, timóteo, salomé, jerusalém
 

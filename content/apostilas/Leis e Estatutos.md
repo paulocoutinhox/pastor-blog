@@ -1,6 +1,6 @@
 Title: Leis e Estatutos
 Date: 2018-06-08 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, lei, estatuto
 Summary: Apostila sobre Leis e Estatutos

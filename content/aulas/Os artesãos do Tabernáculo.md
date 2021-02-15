@@ -1,6 +1,6 @@
 Title: Os artesãos do Tabernáculo
 Date: 2019-04-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, artesão
 

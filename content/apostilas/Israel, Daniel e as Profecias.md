@@ -1,6 +1,6 @@
 Title: Israel, Daniel e as Profecias
 Date: 2015-01-01 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, daniel, israel, profecia
 Summary: Apostila sobre Israel, Daniel e as Profecias

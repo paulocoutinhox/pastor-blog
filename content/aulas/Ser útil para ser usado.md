@@ -1,6 +1,6 @@
 Title: Ser útil para ser usado - Como ser um obreiro ou ministro de qualidade
 Date: 2020-06-14 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, útil, usado, preso, chamado, ministério, obra, vocação, josué, samuel, davi, andré, pedro, paulo, joão, marcos, joão marcos, barnabé, utilidade, fidelidade, líder, obediência, responsabilidade
 

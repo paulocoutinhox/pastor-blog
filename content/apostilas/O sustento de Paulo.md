@@ -1,6 +1,6 @@
 Title: O sustento de Paulo
 Date: 2013-08-04 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, sustento, paulo, dinheiro
 Summary: Apostila sobre o sustento de Paulo

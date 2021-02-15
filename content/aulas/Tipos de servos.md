@@ -1,6 +1,6 @@
 Title: Tipos de servos
 Date: 2018-12-09 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, servo
 

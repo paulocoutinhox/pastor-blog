@@ -1,6 +1,6 @@
 Title: O templo de Deus
 Date: 2020-04-19 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, deus, templo, casa, santuário, lei, graça, abraão, isaque, jacó, josé, paulo, caráter, edifício, pedra, esquina, principal, angular, crescimento, obra, alicerce, fundamento, fé, justificação, justificado
 

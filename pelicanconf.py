@@ -61,7 +61,6 @@ TAG_URL = "tag/{slug}.html"
 # Blogroll
 LINKS = (
     ("IPDV", "https://www.facebook.com/igrejapdv/"),
-    ("PRSoluções", "https://prsolucoes.com/"),
 )
 
 # Social widget

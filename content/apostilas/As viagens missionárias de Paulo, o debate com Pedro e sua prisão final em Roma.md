@@ -1,6 +1,6 @@
 Title: As viagens missionárias de Paulo, o debate com Pedro e sua prisão final em Roma
 Date: 2019-02-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, viagem, missionário, paulo, pedro, roma, prisão
 Summary: Apostila sobre as viagens missionárias de Paulo, o debate com Pedro e sua prisão final em Roma

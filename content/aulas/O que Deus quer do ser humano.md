@@ -1,6 +1,6 @@
 Title: O que Deus quer do ser humano
 Date: 2020-04-12 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, deus, ser humano, exortação, misericórdia, sacrifício, vivo, santidade, aceitável, agradável, culto, racional, cultuar
 

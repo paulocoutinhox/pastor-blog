@@ -1,6 +1,6 @@
 Title: Antíoco Epifânio
 Date: 2014-12-21 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, antíoco, grego, macabeu, judas
 Summary: Apostila sobre Antíoco Epifânio

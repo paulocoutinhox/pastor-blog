@@ -1,6 +1,6 @@
 Title: Cinco coisas que perdemos sem Jesus
 Date: 2020-05-31 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, perda, ganho, aflição, consolo, fé, sentimento, infiel, salvação, comunhão, comunidade, israel, cidadania, cidadão, estranho, concerto, promessa, esperança, deus, mundo, palavra, prazer
 

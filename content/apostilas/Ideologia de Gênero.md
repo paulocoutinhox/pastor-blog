@@ -1,6 +1,6 @@
 Title: Ideologia de Gênero
 Date: 2016-08-14 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, ideologia, gênero, sexo, criança
 Summary: Apostila sobre Ideologia de Gênero

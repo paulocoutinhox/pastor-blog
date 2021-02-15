@@ -1,6 +1,6 @@
 Title: As cortinas do Tabernáculo
 Date: 2019-05-26 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, tabernáculo, tenda, deserto, cortina, pano
 

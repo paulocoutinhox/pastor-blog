@@ -1,6 +1,6 @@
 Title: Sucessores ou herdeiros e Um homem aceito pelo povo e rejeitado por Deus
 Date: 2019-11-24 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, samuel, sucessor, herdeiro, homem, povo, rejeição, deus
 

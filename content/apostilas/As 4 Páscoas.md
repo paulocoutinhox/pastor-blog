@@ -1,6 +1,6 @@
 Title: As 4 Páscoas
 Date: 2014-04-27 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, páscoa, judeu, egito, cristã
 Summary: Apostila sobre as 4 Páscoas

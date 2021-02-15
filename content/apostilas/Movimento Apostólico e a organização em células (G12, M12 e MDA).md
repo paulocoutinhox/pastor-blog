@@ -1,6 +1,6 @@
 Title: Movimento Apostólico e a organização em células (G12, M12 e MDA)
 Date: 2019-06-25 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, movimento, apostólico, célula, m12, g12, mda
 Summary: Apostila sobre o Movimento Apostólico e a organização em células (G12, M12 e MDA)

@@ -1,6 +1,6 @@
 Title: O bom samaritano
 Date: 2018-11-25 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, samaritano
 

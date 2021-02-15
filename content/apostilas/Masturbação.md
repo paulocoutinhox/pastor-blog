@@ -1,6 +1,6 @@
 Title: Masturbação
 Date: 2013-05-11 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, sexo, sexualidade, cristã, amor, masturação
 Summary: Apostila sobre masturbação ser pecado ou não

@@ -1,6 +1,6 @@
 Title: Bondade e grandeza
 Date: 2020-06-21 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jesus, efésios, bondade, grandeza, recomendação, escatológico, recompensa, bem, piedade, futuro, escravidão, igualdade, senhor, cristão, sofrimento, graça, crer, padecer, categoria, joabe, nabucodonosor, senaqueribe, isaque, elcana, josé, eli, acabe, abraão, paulo, balaão, sansão, salomão, salvação
 

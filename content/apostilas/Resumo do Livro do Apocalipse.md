@@ -1,6 +1,6 @@
 Title: Resumo do Livro do Apocalipse
 Date: 2018-11-17 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: apostilas
 Tags: apostila, resumo, livro, apocalipse
 Summary: Apostila que é um resumo do livro do Apocalipse

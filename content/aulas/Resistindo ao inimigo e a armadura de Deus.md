@@ -1,6 +1,6 @@
 Title: Resistindo ao inimigo e a armadura de Deus
 Date: 2019-02-10 18:00
-Author: paulo
+Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, resistir, inimigo, armadura
 
