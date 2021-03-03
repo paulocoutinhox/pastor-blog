@@ -2,7 +2,7 @@ Title: Não despreze o dom que há em ti
 Date: 2021-02-21 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
-Tags: aula, dom, dons, carisma, dorema, charisma, paulo, timóteo, espírito santo, manifestar, manifestação, gênesis, haja, luz, sobrenatural, favor, graça, diakonia, serviço, servir, corpo, membro, carismático
+Tags: aula, dom, dons, carisma, dorema, charisma, paulo, timóteo, espírito santo, manifestar, manifestação, gênesis, haja, luz, sobrenatural, favor, graça, diakonia, serviço, servir, corpo, membro, carismático, ministro, servo, diácono, eleito, billy graham
 
 Aula lecionada nos dias 21/02/2021 e 28/02/2021 sobre o significado da palavra DOM e sua aplicação dentro e fora do contexto espiritual.
 
