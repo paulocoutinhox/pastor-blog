@@ -90,7 +90,7 @@ get-vendor:
 	test -d "vendor" || git submodule add https://github.com/getpelican/pelican-plugins.git vendor
 
 submodule-update:
-	git submodule update -f --init
+	git submodule update --init --recursive
 
 format:
 	black *conf.py

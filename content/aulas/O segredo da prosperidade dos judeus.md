@@ -52,6 +52,6 @@ Referências:
 - [https://www.youtube.com/watch?v=5LEkT8Rc6bM](https://www.youtube.com/watch?v=5LEkT8Rc6bM)
 - [https://www.youtube.com/watch?v=aQ19KDhNLvo](https://www.youtube.com/watch?v=aQ19KDhNLvo)
 - [https://youtu.be/awqDmAdKn-M](https://youtu.be/awqDmAdKn-M)
-
+- [https://www.istoedinheiro.com.br/ninguem-no-mundo-sai-de-casa-sem-usar-uma-tecnologia-israelense/](https://www.istoedinheiro.com.br/ninguem-no-mundo-sai-de-casa-sem-usar-uma-tecnologia-israelense/)
 
 [Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/jt2zobvnhqqnhyz/Aula%20EBD%20-%20O%20segredo%20da%20prosperidade%20dos%20judeus%20-%2010_01_2021.pdf?dl=1)
