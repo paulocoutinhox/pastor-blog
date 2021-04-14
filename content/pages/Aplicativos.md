@@ -1,8 +1,8 @@
 Title: Aplicativos
 Date: 2021-04-13 21:53
 Author: Pastor Paulo Coutinho
-Summary: Os aplicativos desenvolvidos por Paulo Coutinho
-Subtitle: Os aplicativos desenvolvidos por mim para aqueles que desejam estudar a Bíblia
+Summary: Os aplicativos desenvolvidos pelo Pastor Paulo Coutinho
+Subtitle: Os aplicativos desenvolvidos pelo Pastor Paulo Coutinho para aqueles que desejam estudar a Bíblia
 
 <img src="{static}/images/headers/aplicativos.jpg" alt="Os aplicativos desenvolvidos por Paulo Coutinho" class="center" style="margin-top: 0;">
 
