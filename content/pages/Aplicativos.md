@@ -8,7 +8,7 @@ Subtitle: Os aplicativos desenvolvidos por mim para aqueles que desejam estudar 
 
 ## Avinu App
 
-Aplicativo para ler a Bíblia e estudar assuntos teológicos.
+Aplicativo para Android e iOS para ler a Bíblia e estudar assuntos teológicos.
 
 Clique no link abaixo referente à loja onde deseja baixar o aplicativo.
 
