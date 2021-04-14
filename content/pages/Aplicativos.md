@@ -1,4 +1,4 @@
-Title: Aplicativos - Avinu
+Title: Aplicativos
 Date: 2021-04-13 21:53
 Author: Pastor Paulo Coutinho
 Summary: Os aplicativos desenvolvidos por Paulo Coutinho
