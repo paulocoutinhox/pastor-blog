@@ -19,3 +19,12 @@ Clique no link abaixo referente à loja onde deseja baixar o aplicativo.
 <a href="https://play.google.com/store/apps/details?id=com.avinuapp.main" target="_blank">
     <img src="{static}/images/outros/google-store.png" style="max-width: 200px">
 </a>
+
+#### Site oficial
+
+<a href="https://avinuapp.com" target="_blank">https://avinuapp.com</a>
+
+#### Desenvolvedores
+
+- Pastor Paulo Coutinho
+- Missionária Michelle Vezneyan
