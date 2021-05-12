@@ -1,8 +1,8 @@
 Title: Gênesis
 Date: 2019-09-24 05:00
 Author: Pastor Paulo Coutinho
-Category: Notícias
-Tags: notícia
+Category: notícias
+Tags: notícia, início
 
 A paz do Senhor,
 
