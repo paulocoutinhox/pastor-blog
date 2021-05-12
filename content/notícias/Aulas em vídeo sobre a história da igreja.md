@@ -61,7 +61,7 @@ Outras fontes muito boas e completas se encontram nestes três livros, que inclu
 
 <img src="{static}/images/outros/livro-historia-eclesiastica.jpg" alt="História Eclesiástica" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">
 
-Outras referências:
+#### Outras referências:
 
 Para quem quiser mais conteúdos sobre o assunto de forma resumida acesse o meu site pelo link abaixo. Neste link eu recomendo algumas aulas resumindo a história do cristianismo:
 

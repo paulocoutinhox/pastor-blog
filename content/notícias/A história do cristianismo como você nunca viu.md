@@ -16,7 +16,7 @@ Vídeos:
 - [A Igreja Moderna | A HISTÓRIA DO CRISTIANISMO | Episódio 6](https://www.youtube.com/watch?v=9xUAMvbaxeg)
 - [Os Pais da Igreja | A HISTÓRIA DO CRISTIANISMO | Episódio Extra](https://www.youtube.com/watch?v=NPJJmFwuhVk)
 
-Outras referências:
+#### Outras referências:
 
 Para quem quiser mais conteúdos sobre o assunto acesse em meu site o link abaixo. Neste link você encontrará cursos gratuitos com aulas mais detalhadas e completas caso queira expandir ainda mais seu conhecimento. Também possui alguns livros que comprei e recomendo:
 
