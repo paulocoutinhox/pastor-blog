@@ -87,10 +87,8 @@ publish:
 	make cloudflare-clear-cache
 
 get-vendor:
-	test -d "vendor" || git submodule add https://github.com/getpelican/pelican-plugins.git vendor
-
-submodule-update:
-	git submodule update --init --recursive
+	rm -rf vendor
+	git clone https://github.com/getpelican/pelican-plugins.git vendor
 
 format:
 	black *conf.py
