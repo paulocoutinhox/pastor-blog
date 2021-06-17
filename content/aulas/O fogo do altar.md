@@ -4,7 +4,7 @@ Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, batismo, fogo, espírito, espírito santo, altar, levítico, vaicrá, primeira, quinta, sacrifício, oferta, holocausto, manjares, pacíficas, pecado, culpa, ação, estado, davi, salomão, elias, anjo, isaías, santidade, tenaz, manutenção, tessalonicenses, lenha, mazelas, calvino
 
-Aula lecionada no dias 06/06/2021 mostrando quem acende o fogo do altar e quem deve manter ele aceso.
+Aula lecionada no dia 06/06/2021 mostrando quem acende o fogo do altar e quem deve manter ele aceso.
 
 Tópicos:
 
