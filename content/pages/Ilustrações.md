@@ -2,7 +2,7 @@ Title: Ilustrações
 Date: 2021-07-01 00:00
 Author: Pastor Paulo Coutinho
 Summary: Ilustrações para estudos da Bíblia em modo paisagem e em modo retrato
-Subtitle: As aulas e apostilas são lecionadoas com imagens que auxiliam na visualização gráfica do conteúdo
+Subtitle: As aulas e apostilas são ministradas com imagens que auxiliam na visualização gráfica do conteúdo
 
 <img src="{static}/images/headers/ilustracoes.jpg" alt="Ilustrações para estudos da Bíblia por Paulo Coutinho" class="center" style="margin-top: 0;">
 
