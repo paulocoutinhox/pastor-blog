@@ -1,5 +1,5 @@
 Title: Dons espirituais, pessoais e ministeriais
-Date: 2021-07-04 18:00
+Date: 2021-08-01 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, dom, espírito santo, pessoal, ministerial, visão, revelação, profecia, sonho, palavra da sabedoria, palavra do conhecimento, fé, curar, milagre, discernimento, língua, idioma, interpretação, apóstolo, pastor, mestre, evangelista, líder, presbítero, bispo, didaquê, socorro, governo, ministério, diácono, exortar, contribuir, presidir, joel, corintios, efésios, amor, escritura
