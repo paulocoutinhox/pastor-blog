@@ -39,3 +39,4 @@ Summary: Provas ministradas na Escola Bíblica
 - [Prova EBD 30 - 2020 - O governo divino em mãos humanas](https://www.dropbox.com/s/qdxtewzjkpu4h3y/Prova%20EBD%2030%20-%202020.pdf?dl=1)
 - [Prova EBD 31 - 2020 - Os princípios divinos em tempos de crise](https://www.dropbox.com/s/jh1wr1x7lraaxae/Prova%20EBD%2031%20-%202020.pdf?dl=1)
 - [Prova EBD 32 - 2021 - A fragilidade humana e a soberania divina](https://www.dropbox.com/s/4qep4hlwagu7b3u/Prova%20EBD%2032%20-%202021.pdf?dl=1)
+- [Prova EBD 33 - 2021 - O verdadeiro pentecostalismo](https://www.dropbox.com/s/zq7mgstkxxep1h4/Prova%20EBD%2033%20-%202021.pdf?dl=1)
