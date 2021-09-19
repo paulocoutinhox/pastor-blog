@@ -4,7 +4,7 @@ Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, apocalipse, roma, romano, joão, revelação, deuses, gregos, vaticano, patmos, domiciano, nerva, império romano, rômulo, remo, sete, colinas, lilith, lilite, lúcifer, olimpíadas, éfeso, apóstolo, fundação, loba, lupa, pastor, césar, augusto, divino, igreja
 
-Aula lecionada entre os dias 15/08/2021 e 19/09/2021 sobre todos os aspectos do contexto em que o Apóstolo João estava inserido, começando com a fundação de Roma em 753 AEC.
+Aula lecionada entre os dias 15/08/2021 e 26/09/2021 sobre todos os aspectos do contexto em que o Apóstolo João estava inserido, começando com a fundação de Roma em 753 AEC.
 
 Contexto: 
 
@@ -43,4 +43,4 @@ Tópicos:
 - Retorno da Ilha de Patmos
 
 
-[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/ayxatxm5cwfbauk/Aula%20EBD%20-%20Apocalipse%20de%20Jesus%20Cristo%20-%20Fase%201%20-%20O%20fim%20de%20um%20mundo%20e%20o%20in%C3%ADcio%20de%20outro%20-%2019_09_2021.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/cilp1um9r6w71id/Aula%20EBD%20-%20Apocalipse%20de%20Jesus%20Cristo%20-%20Fase%201%20-%20O%20fim%20de%20um%20mundo%20e%20o%20in%C3%ADcio%20de%20outro%20-%2026_09_2021.pdf?dl=1)
