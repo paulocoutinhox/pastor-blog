@@ -1,5 +1,5 @@
 Title: Apocalipse de Jesus Cristo - Fase 1 - O fim de um mundo e o início de outro
-Date: 2021-09-19 18:00
+Date: 2021-09-26 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, apocalipse, roma, romano, joão, revelação, deuses, gregos, vaticano, patmos, domiciano, nerva, império romano, rômulo, remo, sete, colinas, lilith, lilite, lúcifer, olimpíadas, éfeso, apóstolo, fundação, loba, lupa, pastor, césar, augusto, divino, igreja
