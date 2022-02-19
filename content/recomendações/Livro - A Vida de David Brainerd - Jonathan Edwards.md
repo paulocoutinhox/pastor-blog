@@ -1,10 +1,10 @@
-Title: Livro - A vida de David Brainerd
+Title: Livro - A vida de David Brainerd - Jonathan Edwards
 Date: 2022-02-10 21:00
 Author: Pastor Paulo Coutinho
 Category: recomendações
 Tags: livro, david brainerd, diário, william carey, henry martyn, robert mürray mccheyne, john wesley, jonathan edwards, charles spurgeon, oswald smith, jim elliot, índio, missionário, pregação, renúncia, exemplo, vela
 
-## Livro - A vida de David Brainerd
+## Livro - A vida de David Brainerd - Jonathan Edwards
 
 <img src="{static}/images/livros/a-vida-de-david-brainerd.png" alt="Livro - A vida de David Brainerd" style="width: auto; height: 200px">
 

@@ -1,10 +1,10 @@
-Title: Livro - Heróis da Fé - Vinte homens extraordinários que incendiaram o mundo
+Title: Livro - Heróis da Fé - Vinte homens extraordinários que incendiaram o mundo - Orlando Boyer
 Date: 2022-02-10 20:00
 Author: Pastor Paulo Coutinho
 Category: recomendações
 Tags: livro, herói, fé, alma, jerônimo savonarola, martinho lutero, joão bunyan, jonatas edwards, joão wesley, jorge whitefield, david brainerd, guilherme carey, christmas evans, henrique martyn, adoniram judson, carlos finney, jorge muller, david livingstone, joão paton, hudson taylor, carlos spurgeon, pastor hsi, dl moody, jonatas goforth
 
-## Livro - Heróis da Fé - Vinte homens extraordinários que incendiaram o mundo
+## Livro - Heróis da Fé - Vinte homens extraordinários que incendiaram o mundo - Orlando Boyer
 
 <img src="{static}/images/livros/herois-da-fe.png" alt="Livro - Heróis da Fé" style="width: auto; height: 200px">
 
@@ -34,6 +34,6 @@ Lista completa de capítulos deste audiobook:
 - [Capítulo 22 - Dl Moody](https://www.youtube.com/watch?v=ZJyA6fVTxt0&list=PLclmUSGO-r-bvjsvaam79E8YH8VncK6Cm&index=22)
 - [Capítulo 23 - Jonatas Goforth](https://www.youtube.com/watch?v=S8Cpa8xSRKA&list=PLclmUSGO-r-bvjsvaam79E8YH8VncK6Cm&index=23)
 
-Esse livro escrito por Orlando Boyer, foi foi um evangelista, missionário, pastor, escritor e editor, é muito bom e traz a biografia de 20 homens que incendiaram o mundo com a pregação do evangelho.
+Esse livro foi escrito por Orlando Boyer, um evangelista, missionário, pastor, escritor e editor, é muito bom e traz a biografia de 20 homens que incendiaram o mundo com a pregação do evangelho.
 
 Em cada capítulo, uma nova biografia, trazendo desde a juventude ao fim do ministério de cada um deles.
