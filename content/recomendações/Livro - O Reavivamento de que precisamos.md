@@ -2,7 +2,7 @@ Title: Livro - O Reavivamento de que precisamos - Oswald J. Smith
 Date: 2022-04-16 17:00
 Author: Pastor Paulo Coutinho
 Category: recomendações
-Tags: livro, reavivamento, avivament, revive, espírito, espírito santo, escritura, palavra de deus, bíblia, vida, dom, pentecostes, atos, descida, mover, arrependimento, pecado, convicção, pecador, choro, mudança de vida
+Tags: livro, reavivamento, avivament, revival, espírito, espírito santo, escritura, palavra de deus, bíblia, vida, dom, pentecostes, atos, descida, mover, arrependimento, pecado, convicção, pecador, choro, mudança de vida, fogo, clamor, perdido, gentio, reviver, sede
 
 ## Livro - O Reavivamento de que precisamos - Oswald J. Smith
 
@@ -27,7 +27,7 @@ Onde encontrar?
 - [Versão traduzida - Todos os capítulos - Completo](https://www.levandoapalavra.com/123/?p=1316)
 - [Versão traduzida - Todos os capítulos - Completo em PDF](https://docplayer.com.br/109195455-O-reavivamento-de-que-precisamos-oswald-j-smith-1958.html)
 
-Este livro resume bem o que penso sobre reavivamento, vida cristão e alguém cheio do Espírito Santo. Além de seguir na mesma direção que penso sobre o método para que tudo isso aconteça.
+Este livro resume bem o que penso sobre reavivamento, vida cristão e alguém cheio do Espírito Santo, além de seguir na mesma direção que penso sobre o método para que tudo isso aconteça.
 
 Quando Oswald J. Smith escreveu este livro há quase cem anos, ele sentiu que a necessidade mais urgente da igreja mundial era o verdadeiro avivamento - o tipo nascido em oração desesperada e acompanhado de profunda convicção pelo pecado, tristeza segundo Deus e profundo arrependimento, resultando em uma fé viva e vitoriosa.
 
