@@ -29,6 +29,8 @@ Onde encontrar?
 
 Este livro resume bem o que penso sobre reavivamento, vida cristão e alguém cheio do Espírito Santo, além de seguir na mesma direção que penso sobre o método para que tudo isso aconteça.
 
+Billy Graham, falando dos 35 livros (traduzidos para 128 línguas) de Oswald J. Smith, escreveu: "Os seus livros têm sido usados pelo Espírito Santo para penetrar na profundeza da minha alma e tiveram uma influência tremenda sobre a minha vida pessoal e o meu ministério".
+
 Quando Oswald J. Smith escreveu este livro há quase cem anos, ele sentiu que a necessidade mais urgente da igreja mundial era o verdadeiro avivamento - o tipo nascido em oração desesperada e acompanhado de profunda convicção pelo pecado, tristeza segundo Deus e profundo arrependimento, resultando em uma fé viva e vitoriosa.
 
 Se ele estivesse vivo hoje, certamente concluiria que a necessidade só se tornou mais aguda com o passar dos anos. O autor relata como chegou um momento em seu próprio ministério em que ele ficou dolorosamente ciente de que seus esforços não estavam produzindo resultados espirituais.
