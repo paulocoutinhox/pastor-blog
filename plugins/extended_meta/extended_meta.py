@@ -23,7 +23,7 @@ import os.path
 from pelican import generators, signals
 from pelican.utils import strftime
 from bs4 import BeautifulSoup
-from jinja2 import Markup
+from jinja2.utils import markupsafe
 
 
 def open_graph_tag_articles(content_generators):
@@ -101,8 +101,8 @@ def open_graph_tag(item):
     url = os.path.join(item.settings.get("SITEURL", ""), item.url)
     ogtags.append(("og:url", url))
 
-    default_summary = Markup(item.summary).striptags()
-    description = Markup.escape(item.metadata.get("og_description", default_summary))
+    default_summary = markupsafe.Markup(item.summary).striptags()
+    description = markupsafe.Markup.escape(item.metadata.get("og_description", default_summary))
     ogtags.append(("og:description", description))
     ogtags.append(("twitter:description", description))
 

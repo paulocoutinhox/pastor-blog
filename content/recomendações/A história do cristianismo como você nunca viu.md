@@ -1,7 +1,7 @@
 Title: A história do cristianismo como você nunca viu
 Date: 2021-05-11 21:10
 Author: Pastor Paulo Coutinho
-Category: notícias
+Category: recomendações
 Tags: apostila, história, igreja, cristianismo, constantino, idade média, reforma, protestante, avivamento, moderna, pais da igreja, calvino, zuinglio, lutero, john smyth, john knox, john huss, savonarola, rei henrique viii, anabatista, jacó armínio
 
 Vídeos sobre a história do cristianismo em seis episódios com mais um extra sobre os pais da igreja. Excelentes vídeos resumindo diversos períodos da história.

@@ -88,7 +88,7 @@ publish:
 
 get-vendor:
 	rm -rf vendor
-	git clone https://github.com/getpelican/pelican-plugins.git vendor
+	git clone --recursive https://github.com/getpelican/pelican-plugins vendor
 
 format:
 	black *conf.py
@@ -97,9 +97,6 @@ format:
 
 git-upload:
 	git add --all && git commit -am "updated content" && git push origin master
-
-install-plugins:
-	git clone --recursive https://github.com/getpelican/pelican-plugins vendor
 
 python-deps:
 	pip install -r requirements.txt --upgrade
@@ -111,4 +108,4 @@ cloudflare-clear-cache:
       -H 'Content-Type: application/json' \
       -d '{ "purge_everything": true }'
 
-.PHONY: html help clean regenerate serve serve-global devserver publish 
+.PHONY: html help clean regenerate serve serve-global devserver publish

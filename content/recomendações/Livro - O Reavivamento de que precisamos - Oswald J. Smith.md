@@ -42,3 +42,7 @@ As almas ficaram subitamente convictas de seus pecados e foram transformadas par
 Esses capítulos estão repletos de citações poderosas de revivalistas e ganhadores de almas de tempos passados, como David Brainerd, William Bramwell, John Wesley, Charles Finney, Evan Roberts e muitos outros. Os últimos capítulos detalham a própria busca de Smith pelo revestimento do poder, seu sofrimento de alma e o fruto espiritual que se seguiu.
 
 Em seu prefácio a este livro, Jonathan Goforth escreve: "O livro do Sr. Smith, The Revival We Need, por seu tamanho é o apelo mais poderoso para o reavivamento que já li.Ele foi verdadeiramente guiado pelo Espírito de Deus em prepará-lo. ." "À sua ênfase na necessidade de um reavivamento do Espírito Santo, posso dar o mais sincero amém. O que eu vi de avivamento na Coréia e na China está de acordo com o avivamento exigido neste livro."
+
+### Comprar
+
+[Clique aqui para comprar](https://amzn.to/3FCUZqz)

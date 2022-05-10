@@ -48,4 +48,8 @@ O fato é que Deus honrou sobremaneira o ministério de Brainerd. O Espírito de
 
 Ao escolher o trabalho nas florestas úmidas, Brainerd sabia que não poderia esperar viver muito. Ele assistiu seu corpo definhar, pouco a pouco. Aos vinte e nove anos, foi colocado em seu leito de morte, sofrendo terrível agonia e dor física. Testemunhou de Cristo em seus momentos finais, e anelava por encontrar-se com o Senhor. Ele faleceu em 09 de outubro de 1747, tendo sido sepultado em Northampton, Massachusetts. Jonathan Edwards conduziu o funeral. Foi uma vida curta, mas que glorificou a Deus grandemente.
 
-Referência: https://ministeriofiel.com.br/artigos/david-brainerd/
+Referência: [https://ministeriofiel.com.br/artigos/david-brainerd/](https://ministeriofiel.com.br/artigos/david-brainerd/)
+
+### Comprar
+
+[Clique aqui para comprar](https://amzn.to/3wgq6E5)

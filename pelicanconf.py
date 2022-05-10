@@ -10,7 +10,7 @@ PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
 AUTHOR = "Pastor Paulo Coutinho"
 SITENAME = "Pastor Paulo Coutinho"
 SITESUBTITLE = "Meu blog pessoal para compartilhar conhecimento"
-SITEURL = ""
+SITEURL = "http://localhost:8000"
 SITEDESCRIPTION = "Meu blog pessoal para compartilhar conhecimento"
 
 RELATIVE_URLS = False
@@ -23,8 +23,6 @@ DEFAULT_PAGINATION = 30
 
 PATH = "content"
 WEBASSETS = True
-
-SITEURL = "http://localhost:8000"
 
 DEFAULT_OG_IMAGE = "{static}/images/opengraph.png"
 

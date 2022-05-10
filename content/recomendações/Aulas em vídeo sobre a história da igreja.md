@@ -1,12 +1,10 @@
 Title: Aulas em vídeo sobre a história da igreja
 Date: 2020-02-22 02:30
 Author: Pastor Paulo Coutinho
-Category: notícias
+Category: recomendações
 Tags: notícia, história, igreja, católica, roma, romana, cristão, mártir, pais da igreja, heresia, perseguição, lutero, calvino, mundo, escravidão, politeísmo, cânon, bíblia, depravassão, salvação, vídeo, online, cristianismo
 
-A paz do Senhor,
-
-Segue uma lista de aulas em vídeo que complementarão o estudo sobre a história da igreja, tornando mais compreensível e servindo como reforço às aulas já ministradas.
+Aqui você encontra uma lista de aulas em vídeo que complementarão o estudo sobre a história da igreja, tornando mais compreensível e servindo como reforço às aulas já ministradas.
 
 Eu já deixei na ordem que faz mais sentido, começando pelo Antigo Testamento, depois os evangelhos do Novo Testamento, depois um relato rápido dos primeiro quatro séculos e por último um relato completo do século I ao século XX.
 
@@ -55,11 +53,11 @@ Junto com o curso em vídeo você pode baixar a apostila com os slides apresenta
 
 Outras fontes muito boas e completas se encontram nestes três livros, que inclusive foram citados nos vídeos:
 
-<img src="{static}/images/outros/livro-historia-ilustrada-cristianismo-box.jpg" alt="História ilustrada do Cristianismo" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">
+[<img src="{static}/images/livros/historia-ilustrada-cristianismo-box.jpg" alt="História ilustrada do Cristianismo" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://amzn.to/3wkhQmJ)
 
-<img src="{static}/images/outros/livro-cristianismo-atraves-dos-seculos.jpg" alt="Cristianismo através dos séculos" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">
+[<img src="{static}/images/livros/cristianismo-atraves-dos-seculos.jpg" alt="Cristianismo através dos séculos" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://amzn.to/39PBYWa)
 
-<img src="{static}/images/outros/livro-historia-eclesiastica.jpg" alt="História Eclesiástica" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">
+[<img src="{static}/images/livros/historia-eclesiastica.jpg" alt="História Eclesiástica" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://www.cpad.com.br/historia-eclesiastica-105599/p)
 
 #### Outras referências:
 

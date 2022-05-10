@@ -37,3 +37,7 @@ Lista completa de capítulos deste audiobook:
 Esse livro foi escrito por Orlando Boyer, um evangelista, missionário, pastor, escritor e editor, é muito bom e traz a biografia de 20 homens que incendiaram o mundo com a pregação do evangelho.
 
 Em cada capítulo, uma nova biografia, trazendo desde a juventude ao fim do ministério de cada um deles.
+
+### Comprar
+
+[Clique aqui para comprar](https://amzn.to/3P2ZDTb)
