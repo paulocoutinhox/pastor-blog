@@ -25,7 +25,6 @@ A história da igreja é muito extensa e caminha em paralelo com a história do 
 - [Aulas em vídeo sobre a história da igreja]({filename}/recomendações/Aulas em vídeo sobre a história da igreja.md)
 - [A história do cristianismo como você nunca viu]({filename}/recomendações/A história do cristianismo como você nunca viu.md)
 
-
 ### Livros recomendados
 
 Uma lista de livros que recomendo por já ter lido ou utilizado em meus estudos pessoais.
