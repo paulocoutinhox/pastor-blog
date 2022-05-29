@@ -28,8 +28,6 @@ Lista completa de capítulos deste livro:
 - Capítulo 16 - A "Nova Reforma Apostólica" no Brasil
 - Capítulo 17 - Análise Crítica da Nova Reforma Apostólica
 - Conclusão
-- Índice Completo
-- Bibliografia
 
 Existem apóstolos hoje? Após um cuidadoso estudo, o Dr. Augustus Nicodemus investiga biblicamente o papel, as marcas e os limites do ministério apostólico. Uma obra inédita e extremamente urgente para a igreja de nossos dias.
 
