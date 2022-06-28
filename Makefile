@@ -37,7 +37,6 @@ help:
 	@echo '   make get-vendor                     get all pelican plugins            '
 	@echo '   make format                         format all files                   '
 	@echo '   make submodule-update               update all git submodules          '
-	@echo '   make install-plugins                install plugins into vendor folder '
 	@echo '   make python-deps                    install required dependencies      '
 	@echo '   make cloudflare-clear-cache         clear cloudflare cache             '
 	@echo '                                                                          '
@@ -99,7 +98,7 @@ git-upload:
 	git add --all && git commit -am "updated content" && git push origin master
 
 python-deps:
-	pip install -r requirements.txt --upgrade
+	python3 -m pip install -r requirements.txt --upgrade
 
 cloudflare-clear-cache:
 	curl -X DELETE \
