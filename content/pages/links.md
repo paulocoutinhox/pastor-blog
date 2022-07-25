@@ -33,3 +33,4 @@ Uma lista de livros que recomendo por já ter lido ou utilizado em meus estudos 
 - [O Peregrino - John Bunyan]({filename}/recomendações/Livro - O Peregrino - John Bunyan.md)
 - [A Vida de David Brainerd - Jonathan Edwards]({filename}/recomendações/Livro - A Vida de David Brainerd - Jonathan Edwards.md)
 - [O Reavivamento de que precisamos]({filename}/recomendações/Livro - O Reavivamento de que precisamos - Oswald J. Smith.md)
+- [Por que Confiar na Bíblia? - Amy Orr-Ewing]({filename}/recomendações/Livro - Por que Confiar na Bíblia - Amy Orr-Ewing.md)
