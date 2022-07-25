@@ -1,10 +1,10 @@
-Title: Livro - Por que Confiar na Bíblia - Amy Orr-Ewing
+Title: Livro - Por que Confiar na Bíblia? - Amy Orr-Ewing
 Date: 2022-07-25 02:45
 Author: Pastor Paulo Coutinho
 Category: recomendações
 Tags: livro, amy orr-ewing, bíblia, confiar, confiança, manuscrito, confiável, papiro, pergaminho, cânon, conteúdo, história, interpretação, sexista, livro sagrado, alcorão, sexo, homossexualidade, guerra, ultrapassado
 
-## Livro - Por que Confiar na Bíblia - Amy Orr-Ewing
+## Livro - Por que Confiar na Bíblia? - Amy Orr-Ewing
 
 <img src="{static}/images/livros/por-que-confiar-na-biblia.jpg" alt="Livro - Por que Confiar na Bíblia" style="width: auto; height: 200px">
 
