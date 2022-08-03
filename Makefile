@@ -45,6 +45,7 @@ help:
 	@echo '   make git                            upload content to git repository   '
 	@echo '   make format                         format all files                   '
 	@echo '   make cloudflare                     clear cloudflare cache             '
+	@echo '   make stork                          download stork files               '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -96,14 +97,6 @@ setup:
 	git clone https://github.com/alexandrevicenzi/Flex.git vendor/themes/flex
 	git clone https://github.com/paulocoutinhox/nid.git vendor/themes/nid
 
-    #stork
-	mkdir -p content/static/{js,css}
-	curl -o content/static/js/stork.js https://files.stork-search.net/releases/${STORK_VERSION}/stork.js
-	curl -o content/static/js/stork.js.map https://files.stork-search.net/releases/${STORK_VERSION}/stork.js.map
-	curl -o content/static/js/stork.wasm https://files.stork-search.net/releases/${STORK_VERSION}/stork.wasm
-	curl -o content/static/css/stork.css https://files.stork-search.net/basic.css
-	curl -o content/static/css/stork-dark.css https://files.stork-search.net/dark.css
-
 format:
 	black .
 
@@ -116,5 +109,13 @@ cloudflare:
       -H 'Authorization: Bearer ${PRS_CLOUDFLARE_TOKEN}' \
       -H 'Content-Type: application/json' \
       -d '{ "purge_everything": true }'
+
+stork:
+	mkdir -p content/static/{js,css}
+	curl -o content/static/js/stork.js https://files.stork-search.net/releases/${STORK_VERSION}/stork.js
+	curl -o content/static/js/stork.js.map https://files.stork-search.net/releases/${STORK_VERSION}/stork.js.map
+	curl -o content/static/js/stork.wasm https://files.stork-search.net/releases/${STORK_VERSION}/stork.wasm
+	curl -o content/static/css/stork.css https://files.stork-search.net/basic.css
+	curl -o content/static/css/stork-dark.css https://files.stork-search.net/dark.css
 
 .PHONY: html help clean regenerate serve serve-global devserver publish setup git format cloudflare

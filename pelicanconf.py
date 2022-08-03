@@ -101,7 +101,7 @@ elif USE_THEME == "flex":
 MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html")]
 
 if USE_THEME == "nid":
-    MENUITEMS.insert(0, ("Home", "/"))
+    MENUITEMS.insert(0, ("Início", "/"))
 
 THEME_COLOR = "light"
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
@@ -144,12 +144,10 @@ EXTRA_PATH_METADATA = {
 
 if USE_THEME == "nid":
     # use minified CSS
-    NID_CSS_MINIFY = True
+    NID_MINIFY_CSS = True
 
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
-    NID_HEADER_LOGO = "/images/empty.png"
-    NID_REL_CANONICAL_LINK = True
 
     # footer
     NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
@@ -163,9 +161,6 @@ if USE_THEME == "nid":
     NID_SOCIAL_COLUMN_TITLE = "Redes sociais"
     NID_LINKS_COLUMN_TITLE = "Links"
     NID_COPYRIGHT_COLUMN_TITLE = "Copyright"
-
-    now = datetime.now()
-    NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho %s" % now.year
 
     # footer optional
     NID_FOOTER_HTML = ""
