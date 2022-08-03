@@ -135,7 +135,8 @@ EXTRA_PATH_METADATA = {
     "extras/favicon/favicon-32x32.png": {"path": "favicon-32x32.png"},
     "extras/favicon/favicon.ico": {"path": "favicon.ico"},
     "extras/favicon/site.webmanifest": {"path": "site.webmanifest"},
-    "extras/static/": {"path": "static/"},
+    "extras/static/css/": {"path": "static/css/"},
+    "extras/static/js/": {"path": "static/js/"},
 }
 
 if USE_THEME == "nid":
