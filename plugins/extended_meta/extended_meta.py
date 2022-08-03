@@ -102,7 +102,9 @@ def open_graph_tag(item):
     ogtags.append(("og:url", url))
 
     default_summary = markupsafe.Markup(item.summary).striptags()
-    description = markupsafe.Markup.escape(item.metadata.get("og_description", default_summary))
+    description = markupsafe.Markup.escape(
+        item.metadata.get("og_description", default_summary)
+    )
     ogtags.append(("og:description", description))
     ogtags.append(("twitter:description", description))
 

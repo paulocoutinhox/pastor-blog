@@ -1,24 +1,30 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-import datetime
 import os
+from datetime import datetime
 
 # General
 PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
+USE_THEME = "nid"  # nid or flex
 
 AUTHOR = "Pastor Paulo Coutinho"
-SITENAME = "Pastor Paulo Coutinho"
+SITENAME = "Pastor Paulo Coutinho - Blog"
+SITETITLE = "Pastor Paulo Coutinho"
 SITESUBTITLE = "Meu blog pessoal para compartilhar conhecimento"
-SITEURL = "http://localhost:8000"
 SITEDESCRIPTION = "Meu blog pessoal para compartilhar conhecimento"
-
+SITEURL = "http://localhost:8000"
+BROWSER_COLOR = "#356689"
+ROBOTS = "index, follow"
 RELATIVE_URLS = False
 
+if USE_THEME == "nid":
+    SITELOGO = "/images/empty.png"
+elif USE_THEME == "flex":
+    SITELOGO = "/images/logo.png"
+
 TIMEZONE = "America/Sao_Paulo"
-DEFAULT_LANG = "pt-br"
-I18N_TEMPLATES_LANG = "pt_BR"
-LOCALE = ["pt_BR"]
+DEFAULT_LANG = "pt_BR"
+I18N_TEMPLATES_LANG = "en"
+LOCALE = "pt_BR"
+OG_LOCALE = ["pt_BR"]
 DEFAULT_PAGINATION = 30
 
 PATH = "content"
@@ -26,13 +32,31 @@ WEBASSETS = True
 
 DEFAULT_OG_IMAGE = "{static}/images/opengraph.png"
 
+DISABLE_URL_HASH = True
+
+PYGMENTS_STYLE = "github"
+
 # Plugins
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+
 PLUGIN_PATHS = [
-    os.path.join(PROJECT_PATH, "vendor"),
+    os.path.join(PROJECT_PATH, "vendor", "pelican-plugins"),
     os.path.join(PROJECT_PATH, "plugins"),
 ]
 
-PLUGINS = ["assets", "sitemap", "summary", "extended_meta", "related_posts"]
+PLUGINS = [
+    "sitemap",
+    "extended_meta",
+    "related_posts",
+    "i18n_subsites",
+    "post_stats",
+    "neighbors",
+]
+
+if USE_THEME == "nid":
+    PLUGINS.append("summary")
+elif USE_THEME == "flex":
+    PLUGINS.append("pelican.plugins.search")
 
 # Sitemap
 SITEMAP = {"format": "xml"}
@@ -57,9 +81,7 @@ RELATED_POSTS_MAX = 20
 TAG_URL = "tag/{slug}.html"
 
 # Blogroll
-LINKS = (
-    ("IPDV", "https://www.facebook.com/igrejapdv/"),
-)
+LINKS = (("IPDV", "https://www.facebook.com/igrejapdv/"),)
 
 # Social widget
 SOCIAL = (
@@ -69,110 +91,39 @@ SOCIAL = (
 
 RELATIVE_URLS = False
 
-# Nid Template
-THEME = "/Users/paulo/Developer/workspaces/python/nid"
-MENUITEMS = [("Home", "/"), ("Categorias", "/categories.html"), ("Tags", "/tags.html")]
+# Theme
+if USE_THEME == "nid":
+    THEME = "vendor/themes/nid"
+elif USE_THEME == "flex":
+    THEME = "vendor/themes/flex"
 
-# use minified CSS
-NID_CSS_MINIFY = True
+MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html")]
 
-# add header background image from content/images : 'background.jpg'
-NID_HEADER_IMAGES = ""
-NID_HEADER_LOGO = "/images/logo.png"
-NID_REL_CANONICAL_LINK = True
+THEME_COLOR = "light"
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
-# footer
-NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
-NID_SITEMAP_MENU = [
-    ("Arquivos", "/archives.html"),
-    ("Tags", "/tags.html"),
-    ("Autores", "/authors.html"),
-]
-NID_SITEMAP_ATOM_LINK = "Atom Feed"
-NID_SITEMAP_RSS_LINK = "RSS Feed"
-NID_SOCIAL_COLUMN_TITLE = "Redes sociais"
-NID_LINKS_COLUMN_TITLE = "Links"
-NID_COPYRIGHT_COLUMN_TITLE = "Copyright"
+USE_LESS = True
+CUSTOM_CSS = "static/custom.css"
 
-now = datetime.datetime.now()
-NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho %s" % now.year
+COPYRIGHT_YEAR = datetime.now().year
+COPYRIGHT_NAME = "Paulo Coutinho"
 
-# footer optional
-NID_FOOTER_HTML = ""
+USE_FOLDER_AS_CATEGORY = True
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
 
-# index.html
-NID_INDEX_HEAD_TITLE = "Home"
-NID_INDEX_HEADER_TITLE = "Meu blog pessoal para compartilhar conhecimento"
-NID_INDEX_HEADER_SUBTITLE = "Compartilhando conhecimento"
-NID_INDEX_CONTENT_TITLE = "Últimos posts"
-NID_INDEX_PAGE_NUMBER_TITLE = "Página"
+SHOW_ARTICLE_CATEGORY = True
 
-# archives.html
-NID_ARCHIVES_HEAD_TITLE = "Arquivos"
-NID_ARCHIVES_HEAD_DESCRIPTION = "Arquivos de posts"
-NID_ARCHIVES_HEADER_TITLE = "Arquivos"
-NID_ARCHIVES_HEADER_SUBTITLE = "Arquivos de todos os posts"
-NID_ARCHIVES_CONTENT_TITLE = "Arquivos"
+REL_CANONICAL = True
 
-# article.html
-NID_ARTICLE_HEADER_BY = "Por"
-NID_ARTICLE_HEADER_MODIFIED = "modificado"
-NID_ARTICLE_HEADER_IN = "na categoria"
-NID_ARTICLE_RELATED_TITLE = "Outros conteúdos relacionados"
-
-# author.html
-NID_AUTHOR_HEAD_TITLE = "Posts de"
-NID_AUTHOR_HEAD_DESCRIPTION = "Posts de"
-NID_AUTHOR_HEADER_SUBTITLE = "Arquivos de posts"
-NID_AUTHOR_CONTENT_TITLE = "Posts"
-
-# authors.html
-NID_AUTHORS_HEAD_TITLE = "Lista de autor"
-NID_AUTHORS_HEAD_DESCRIPTION = "Lista de autor"
-NID_AUTHORS_HEADER_TITLE = "Lista de autor"
-NID_AUTHORS_HEADER_SUBTITLE = "Arquivos listados por autor"
-
-# categories.html
-NID_CATEGORIES_HEAD_TITLE = "Categorias"
-NID_CATEGORIES_HEAD_DESCRIPTION = "Arquivos listados por categoria"
-NID_CATEGORIES_HEADER_TITLE = "Categorias"
-NID_CATEGORIES_HEADER_SUBTITLE = "Arquivos listados por categoria"
-
-# category.html
-NID_CATEGORY_HEAD_TITLE = "Arquivo de categoria"
-NID_CATEGORY_HEAD_DESCRIPTION = "Arquivo de categoria"
-NID_CATEGORY_HEADER_TITLE = "Categoria"
-NID_CATEGORY_HEADER_SUBTITLE = "Arquivo de categoria"
-
-# pagination.html
-NID_PAGINATION_PREVIOUS = "Anterior"
-NID_PAGINATION_NEXT = "Próximo"
-
-# period_archives.html
-NID_PERIOD_ARCHIVES_HEAD_TITLE = "Arquivos de"
-NID_PERIOD_ARCHIVES_HEAD_DESCRIPTION = "Arquivos de"
-NID_PERIOD_ARCHIVES_HEADER_TITLE = "Arquivos"
-NID_PERIOD_ARCHIVES_HEADER_SUBTITLE = "Arquivos de"
-NID_PERIOD_ARCHIVES_CONTENT_TITLE = "Arquivos de"
-
-# tag.html
-NID_TAG_HEAD_TITLE = "Arquivo de tags"
-NID_TAG_HEAD_DESCRIPTION = "Arquivo de tags"
-NID_TAG_HEADER_TITLE = "Tag"
-NID_TAG_HEADER_SUBTITLE = "Arquivo de tags"
-
-# tags.html
-NID_TAGS_HEAD_TITLE = "Tags"
-NID_TAGS_HEAD_DESCRIPTION = "Lista de tags"
-NID_TAGS_HEADER_TITLE = "Tags"
-NID_TAGS_HEADER_SUBTITLE = "Lista de tags"
-NID_TAGS_CONTENT_TITLE = "Lista de tags"
-NID_TAGS_CONTENT_LIST = "marcado"
-NID_TAGS_SINGLE_ARTICLE_TITLE = "artigo"
-NID_TAGS_SEVERAL_ARTICLES_TITLE = "artigos"
+# Search
+if USE_THEME == "flex":
+    SEARCH_MODE = "output"
+    SEARCH_HTML_SELECTOR = "article div"
 
 # Static files
-STATIC_PATHS = ["images", "extras"]
+STATIC_PATHS = ["images", "extras", "static"]
 
 EXTRA_PATH_METADATA = {
     "extras/CNAME": {"path": "CNAME"},
@@ -184,4 +135,104 @@ EXTRA_PATH_METADATA = {
     "extras/favicon/favicon-32x32.png": {"path": "favicon-32x32.png"},
     "extras/favicon/favicon.ico": {"path": "favicon.ico"},
     "extras/favicon/site.webmanifest": {"path": "site.webmanifest"},
+    "extras/static/": {"path": "static/"},
 }
+
+if USE_THEME == "nid":
+    # use minified CSS
+    NID_CSS_MINIFY = True
+
+    # add header background image from content/images : 'background.jpg'
+    NID_HEADER_IMAGES = ""
+    NID_HEADER_LOGO = "/images/empty.png"
+    NID_REL_CANONICAL_LINK = True
+
+    # footer
+    NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
+    NID_SITEMAP_MENU = [
+        ("Arquivos", "/archives.html"),
+        ("Tags", "/tags.html"),
+        ("Autores", "/authors.html"),
+    ]
+    NID_SITEMAP_ATOM_LINK = "Atom Feed"
+    NID_SITEMAP_RSS_LINK = "RSS Feed"
+    NID_SOCIAL_COLUMN_TITLE = "Redes sociais"
+    NID_LINKS_COLUMN_TITLE = "Links"
+    NID_COPYRIGHT_COLUMN_TITLE = "Copyright"
+
+    now = datetime.now()
+    NID_COPYRIGHT = "&copy; Pastor Paulo Coutinho %s" % now.year
+
+    # footer optional
+    NID_FOOTER_HTML = ""
+
+    # index.html
+    NID_INDEX_HEAD_TITLE = "Home"
+    NID_INDEX_HEADER_TITLE = "Meu blog pessoal para compartilhar conhecimento"
+    NID_INDEX_HEADER_SUBTITLE = "Compartilhando conhecimento"
+    NID_INDEX_CONTENT_TITLE = "Últimos posts"
+    NID_INDEX_PAGE_NUMBER_TITLE = "Página"
+
+    # archives.html
+    NID_ARCHIVES_HEAD_TITLE = "Arquivos"
+    NID_ARCHIVES_HEAD_DESCRIPTION = "Arquivos de posts"
+    NID_ARCHIVES_HEADER_TITLE = "Arquivos"
+    NID_ARCHIVES_HEADER_SUBTITLE = "Arquivos de todos os posts"
+    NID_ARCHIVES_CONTENT_TITLE = "Arquivos"
+
+    # article.html
+    NID_ARTICLE_HEADER_BY = "Por"
+    NID_ARTICLE_HEADER_MODIFIED = "modificado"
+    NID_ARTICLE_HEADER_IN = "na categoria"
+    NID_ARTICLE_RELATED_TITLE = "Outros conteúdos relacionados"
+
+    # author.html
+    NID_AUTHOR_HEAD_TITLE = "Posts de"
+    NID_AUTHOR_HEAD_DESCRIPTION = "Posts de"
+    NID_AUTHOR_HEADER_SUBTITLE = "Arquivos de posts"
+    NID_AUTHOR_CONTENT_TITLE = "Posts"
+
+    # authors.html
+    NID_AUTHORS_HEAD_TITLE = "Lista de autor"
+    NID_AUTHORS_HEAD_DESCRIPTION = "Lista de autor"
+    NID_AUTHORS_HEADER_TITLE = "Lista de autor"
+    NID_AUTHORS_HEADER_SUBTITLE = "Arquivos listados por autor"
+
+    # categories.html
+    NID_CATEGORIES_HEAD_TITLE = "Categorias"
+    NID_CATEGORIES_HEAD_DESCRIPTION = "Arquivos listados por categoria"
+    NID_CATEGORIES_HEADER_TITLE = "Categorias"
+    NID_CATEGORIES_HEADER_SUBTITLE = "Arquivos listados por categoria"
+
+    # category.html
+    NID_CATEGORY_HEAD_TITLE = "Arquivo de categoria"
+    NID_CATEGORY_HEAD_DESCRIPTION = "Arquivo de categoria"
+    NID_CATEGORY_HEADER_TITLE = "Categoria"
+    NID_CATEGORY_HEADER_SUBTITLE = "Arquivo de categoria"
+
+    # pagination.html
+    NID_PAGINATION_PREVIOUS = "Anterior"
+    NID_PAGINATION_NEXT = "Próximo"
+
+    # period_archives.html
+    NID_PERIOD_ARCHIVES_HEAD_TITLE = "Arquivos de"
+    NID_PERIOD_ARCHIVES_HEAD_DESCRIPTION = "Arquivos de"
+    NID_PERIOD_ARCHIVES_HEADER_TITLE = "Arquivos"
+    NID_PERIOD_ARCHIVES_HEADER_SUBTITLE = "Arquivos de"
+    NID_PERIOD_ARCHIVES_CONTENT_TITLE = "Arquivos de"
+
+    # tag.html
+    NID_TAG_HEAD_TITLE = "Arquivo de tags"
+    NID_TAG_HEAD_DESCRIPTION = "Arquivo de tags"
+    NID_TAG_HEADER_TITLE = "Tag"
+    NID_TAG_HEADER_SUBTITLE = "Arquivo de tags"
+
+    # tags.html
+    NID_TAGS_HEAD_TITLE = "Tags"
+    NID_TAGS_HEAD_DESCRIPTION = "Lista de tags"
+    NID_TAGS_HEADER_TITLE = "Tags"
+    NID_TAGS_HEADER_SUBTITLE = "Lista de tags"
+    NID_TAGS_CONTENT_TITLE = "Lista de tags"
+    NID_TAGS_CONTENT_LIST = "marcado"
+    NID_TAGS_SINGLE_ARTICLE_TITLE = "artigo"
+    NID_TAGS_SEVERAL_ARTICLES_TITLE = "artigos"

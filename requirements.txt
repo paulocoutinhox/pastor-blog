@@ -1,4 +1,4 @@
-pelican
+pelican>=4.8.0
 beautifulsoup4
 jinja2>=3
 webassets
@@ -7,3 +7,7 @@ typogrify
 bs4
 black
 pelican-webassets
+pelican-sitemap
+pelican-related-posts
+pelican-neighbors
+pelican-search
