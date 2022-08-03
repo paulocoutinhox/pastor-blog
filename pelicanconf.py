@@ -110,7 +110,6 @@ CUSTOM_CSS = "static/custom.css"
 COPYRIGHT_YEAR = datetime.now().year
 COPYRIGHT_NAME = "Paulo Coutinho"
 
-USE_FOLDER_AS_CATEGORY = True
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
