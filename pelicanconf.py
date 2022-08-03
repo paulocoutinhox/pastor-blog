@@ -48,14 +48,15 @@ PLUGINS = [
     "sitemap",
     "extended_meta",
     "related_posts",
-    "i18n_subsites",
     "post_stats",
     "neighbors",
 ]
 
 if USE_THEME == "nid":
     PLUGINS.append("summary")
+    PLUGINS.append("webassets")
 elif USE_THEME == "flex":
+    PLUGINS.append("i18n_subsites")
     PLUGINS.append("pelican.plugins.search")
 
 # Sitemap
