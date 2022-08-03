@@ -100,6 +100,9 @@ elif USE_THEME == "flex":
 
 MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html")]
 
+if USE_THEME == "nid":
+    MENUITEMS.insert(0, ("Home", "/"))
+
 THEME_COLOR = "light"
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
