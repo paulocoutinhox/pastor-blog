@@ -13,8 +13,10 @@ RELATIVE_URLS = False
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 FEED_ALL_RSS = "feed/rss.xml"
-# CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
-# TAG_FEED_RSS = "feeds/tags/{slug}.xml"
+
+if USE_THEME == "flex":
+    CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
+    TAG_FEED_RSS = "feeds/tags/{slug}.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
