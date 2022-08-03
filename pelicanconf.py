@@ -105,7 +105,7 @@ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 USE_LESS = True
-CUSTOM_CSS = "static/custom.css"
+CUSTOM_CSS = "static/css/custom.css"
 
 COPYRIGHT_YEAR = datetime.now().year
 COPYRIGHT_NAME = "Paulo Coutinho"
