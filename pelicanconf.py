@@ -6,7 +6,7 @@ PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
 USE_THEME = "nid"  # nid or flex
 
 AUTHOR = "Pastor Paulo Coutinho"
-SITENAME = "Pastor Paulo Coutinho - Blog"
+SITENAME = "Pastor Paulo Coutinho"
 SITETITLE = "Pastor Paulo Coutinho"
 SITESUBTITLE = "Meu blog pessoal para compartilhar conhecimento"
 SITEDESCRIPTION = "Meu blog pessoal para compartilhar conhecimento"
