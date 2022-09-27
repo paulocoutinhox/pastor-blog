@@ -1,5 +1,5 @@
 Title: Bíblias de estudo com comentários, ilustrações, concordâncias e mapas
-Date: 2022-09-27 16:20
+Date: 2022-09-27 19:00
 Author: Pastor Paulo Coutinho
 Category: recomendações
 Tags: livro, bíblia, estudo, comentários, descrição, ensino, detalhes, mapas, tabelas, referências, concordâncias, pesos, moedas, variantes textuais, fotos, ilustrações
