@@ -251,3 +251,77 @@ Detalhes do produto:
 **Link para comprar:**
 
 [https://amzn.to/3LN5ZEN](https://amzn.to/3LN5ZEN)
+
+### Bíblia Apologética com Apócrifos - ICP
+
+<img src="{static}/images/livros/biblia-estudo-apologetica-apocrifos-icp.jpg" alt="Bíblia Apologética com Apócrifos - ICP" style="width: auto; height: 200px">
+
+**Descrição:**
+
+Para todo cristão, tão importante quanto crer é saber as razões de sua fé. Em um mundo cada vez mais marcado pelo ateísmo e secularismo, crenças estranhas à Bíblia Sagrada e ideologias contrárias ao Cristianismo, é cada vez mais essencial ter os pés firmados na verdade – por isso, a GEOGRÁFICA EDITORA traz ao leitor brasileiro a nova edição da Bíblia Apologética com Apócrifos – Edição ampliada, exemplar de estudo que não pode faltar na estante e na cabeceira de estudiosos, líderes, pregadores, professores, evangelistas e qualquer pessoa que deseje uma vida devocional mais efetiva e elementos para falar de Jesus com maior fundamentação.
+
+Elaborada em parceria com o Instituto Cristão de Pesquisas (ICP), entidade que é referência em apologética no país, a Bíblia Apologética com Apócrifos auxilia o cristão no conhecimento sobre seitas, heresias e doutrinas em desacordo com a genuína Palavra de Deus. Um material inédito e completo, que fornece base sólida para a defesa da fé e o anúncio das boas-novas do Evangelho.
+
+Com texto na versão Almeida Revista e Corrigida 1997, a edição traz, ainda, os sete livros apócrifos, não incluídos no Cânon protestante e que são misteriosos para muitos evangélicos. Com clareza e notas apologéticas que explicam a natureza desses textos e por que não são considerados de inspiração divina, a Bíblia Apologética com Apócrifos oferece um panorama rico sobre as diferentes correntes religiosas e reafirma, mais uma vez, o senhorio de Jesus Cristo e a fidedignidade das Sagradas Escrituras, o maior legado de Deus à humanidade.
+
+Detalhes do produto:
+
+- ASIN: B07FSN6VDX
+- Editora: Geográfica Editora; 1ª edição (21 março 2017)
+- Idioma: Português
+- Capa dura: 1856 páginas
+- Dimensões: 24.2 x 17 x 4 cm
+
+**Link para comprar:**
+
+[https://amzn.to/3Sf7mP4](https://amzn.to/3Sf7mP4)
+
+### Bíblia de Estudo Plenitude - Almeida Revista e Corrigida
+
+<img src="{static}/images/livros/biblia-estudo-plenitude.jpg" alt="Bíblia de Estudo Plenitude - Almeida Revista e Corrigida" style="width: auto; height: 200px">
+
+**Descrição:**
+
+De orientação teológica pentecostal e carismática, é indicada a pastores e pregadores em geral, líderes de escolas bíblicas e dominical, estudantes de Teologia e cristãos que queiram se aprofundar no entendimento das Escrituras Sagradas.
+
+Desenvolvida por mais de 60 conceituados especialistas da área bíblica, a obra tem como editor geral, Jack W. Hayford, doutor em Teologia. Ao longo de toda a publicação estão incluídos recursos desenvolvidos por respeitados líderes cristãos da atualidade, como Dinâmica do Reino, que enfoca 22 temas bíblicos relevantes à edificação da igreja, trazendo discussões destes tópicos em cerca de 400 passagens das Escrituras Sagradas.
+
+Outra importante ferramenta é a Palavra-Chave, que esclarece termos importantes a partir dos originais e expande a compreensão geral do leitor quanto às Escrituras.
+
+Detalhes do produto:
+
+- Conteúdo: Artigos, Concordância bíblica e temática, Cronologia bíblica, Impressão em duas cores, Leituras para dias especiais, O que a Bíblia diz sobre o perdão de Deus, Palavras de Jesus impressas em Vermelho, Plano anual de leitura da Bíblia, Tabela de pesos, moedas e medidas edição (12 março 2014)
+- ASIN: B011IP7NOQ
+- Editora: SBB
+- Idioma: Português
+- Imitação de couro: 1728 páginas
+- Dimensões: 25.6 x 17.8 x 3 cm
+
+**Link para comprar:**
+
+[https://amzn.to/3Szn2wo](https://amzn.to/3Szn2wo)
+
+### Bíblia de Estudo NTLH - Nova Tradução na Linguagem de Hoje
+
+<img src="{static}/images/livros/biblia-estudo-ntlh.jpg" alt="Bíblia de Estudo NTLH - Nova Tradução na Linguagem de Hoje" style="width: auto; height: 200px">
+
+**Descrição:**
+
+Por sua linguagem clara, profunda e edificante, esta é uma Bíblia que procura explicar o significado do texto bíblico, sem favorecer uma posição doutrinária.
+
+São inúmeros os recursos oferecidos para ajudar o leitor a compreender melhor a Palavra de Deus.
+
+As notas introdutórias a cada unidade do texto, por exemplo, ajudam o leitor a ter uma clara noção do contexto da passagem lida, com pistas para aplicação pessoal.
+
+Detalhes do produto:
+
+- Conteúdo: Concordância bíblica, Ensinamentos de Jesus, Impressão em duas cores, Introdução a cada um dos livros bíblicos, Palavras que consolam e animam, Pesos, moedas e medidas, Quadro histórico da Bíblia edição (29 agosto 2012)
+- ASIN: B0133MNNZK
+- Editora: SBB
+- Idioma: Português
+- Encadernação de couro: 1792 páginas
+- Dimensões: 21.59 x 13.46 x 3.05 cm
+
+**Link para comprar:**
+
+[https://amzn.to/3ShK8rK](https://amzn.to/3ShK8rK)
