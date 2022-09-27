@@ -94,7 +94,7 @@ RELATIVE_URLS = False
 
 # Theme
 if USE_THEME == "nid":
-    THEME = "vendor/themes/nid"
+    THEME = "../nid"
 elif USE_THEME == "flex":
     THEME = "vendor/themes/flex"
 
