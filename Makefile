@@ -76,6 +76,7 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	@cd $(OUTPUTDIR) && \
 	git init . && \
+	git branch -M master && \
 	git add . && \
 	git commit -m "published new version"; \
 	git push "git@github.com:$(GITHUB_REPO).git" master:gh-pages --force && \
