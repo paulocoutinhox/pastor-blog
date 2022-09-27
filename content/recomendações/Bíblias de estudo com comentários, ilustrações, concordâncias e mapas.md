@@ -1,4 +1,4 @@
-Title: Bíblias de estudo com comentários e mapas
+Title: Bíblias de estudo com comentários, ilustrações, concordâncias e mapas
 Date: 2022-09-27 16:20
 Author: Pastor Paulo Coutinho
 Category: recomendações
