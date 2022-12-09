@@ -1,5 +1,5 @@
 Title: O Natal, Jesus e a Bíblia
-Date: 2022-12-09 18:00
+Date: 2022-12-11 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
 Tags: aula, jó, natal, jesus, nascimento, sol, dezembro, natalis, isaías, miquéias, mago, simeão, ana, chanucá, luz, presente, comida, pagão, misericórdia, salvação, trevas, esperança, alegria, thor, santa claus, papai noel, presépio, são francisco de assis, são nicolau, são bonifácio
