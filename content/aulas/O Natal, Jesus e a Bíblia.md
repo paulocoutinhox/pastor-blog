@@ -1,10 +1,16 @@
-Title: A importância do natal
-Date: 2020-12-27 18:00
+Title: O Natal, Jesus e a Bíblia
+Date: 2022-12-09 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
-Tags: aula, jó, natal, jesus, nascimento, sol, dezembro, natalis, isaías, miquéias, mago, simeão, ana, chanucá, luz, presente, comida, pagão, misericórdia, salvação, trevas, esperança, alegria
+Tags: aula, jó, natal, jesus, nascimento, sol, dezembro, natalis, isaías, miquéias, mago, simeão, ana, chanucá, luz, presente, comida, pagão, misericórdia, salvação, trevas, esperança, alegria, thor, santa claus, papai noel, presépio, são francisco de assis, são nicolau, são bonifácio
 
-Aula mostrando a importância dos diversos natais que a Bíblia nos mostra e principalmente o natal de Jesus, além de mostrar quantas pessoas se alegraram e consideraram esse evento importante independente da data.
+Aula mostrando a importância dos diversos natais que a Bíblia nos apresenta e principalmente o natal de Jesus.
+
+Podemos observar quantas pessoas se alegraram e consideraram esse evento importante independente da data.
+
+A aula também se propõe a mostrar que, podemos comemorar tudo dentro do padrão Bíblico sem nenhum problema.
+
+Também aprendemos sobre a origem de cada elemento usado no Natal, visando remover os elementos adicionados posteriormente a era da igreja primitiva para evitar qualquer tipo de confusão.
 
 Tópicos:
 
@@ -30,4 +36,4 @@ Tópicos:
 - Precisamos sempre lembrar que com o natal de Jesus também nasceu a misericórdia universal, nasceu a salvação, nasceu a luz em meio às trevas, nasceu a esperança e nasceu a alegria de ser parte do reino de Deus como filho
 
 
-[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/gefzssfk0i663sk/Aula%20EBD%20-%20A%20import%C3%A2ncia%20do%20natal%20-%2027_12_2020.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/6d959p3cspdukmy/Aula%20EBD%20-%20O%20Natal%2C%20Jesus%20e%20a%20B%C3%ADblia%20-%2011_12_2022%20%28Paulo%20Coutinho%27s%20conflicted%20copy%202022-12-09%29.pdf?dl=1)
