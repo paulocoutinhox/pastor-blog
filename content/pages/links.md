@@ -12,7 +12,7 @@ Uma lista de bíblias e livros contendo o texto bíblico mais próximo do origin
 
 - [Ir para o conteúdo]({filename}/recomendações/Bíblias e livros com textos originais e com aparato crítico.md)
 
-### Bíblias de estudo com comentários
+### Bíblias de estudo com comentários explicativos
 
 Uma lista de bíblias de estudo com comentários de diversos teólogos renomados. Esses comentários nos ajudam a entender o contexto bíblico e traz uma luz ainda maior sobre o texto a ser estudado.
 
