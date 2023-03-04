@@ -325,3 +325,39 @@ Detalhes do produto:
 **Link para comprar:**
 
 [https://amzn.to/3ShK8rK](https://amzn.to/3ShK8rK)
+
+### Bíblia de Estudo Thomas Nelson - Nova Versão Internacional
+
+<img src="{static}/images/livros/biblia-estudo-thomas-nelson.jpg" alt="Bíblia de Estudo Thomas Nelson - Nova Versão Internacional" style="width: auto; height: 200px">
+
+**Descrição:**
+
+A Bíblia de Estudo Thomas Nelson (BETN) é um marco na história das Bíblias comentadas. Diferentemente de outras Bíblias de estudo, a BETN tem como fio guia a teologia bíblica. Com essa proposta única, ela permite ao leitor ponderar as histórias e os temas individuais das Escrituras, ao mesmo tempo em que observa como todos eles se encaixam na grande narrativa de Deus ao longo de sua Palavra, o que promove uma compreensão mais clara da Bíblia – não apenas de suas partes, mas também de sua história como um todo. Siga o plano da redenção à medida que ele se revela pelas Escrituras.
+
+Entre as ferramentas da BETN, estão:
+
+- Mais de 50.000 recursos: entre comentários, notas de estudo, artigos de especialistas, ilustrações, mapas, gráficos, fotos, concordância e sistema de referências cruzadas
+- Textos de mais de 60 conceituados acadêmicos cristãos, como Timothy Keller, Craig L. Blomberg, T. D. Alexander, Kevin DeYoung, Moisés Silva, Douglas J. Moo, Tremper Longman III, entre outros
+- 28 artigos bíblico-teológicos que descortinam temas-chave das Escrituras
+- Introduções Abrangentes, úteis e relevantes a cada livro das Escrituras e das seções bíblicas
+- Mais de 60 gráficos e diagramas
+- Milhares de referências bíblicas cruzadas
+- Centenas de fotografias coloridas com legendas explicativas
+- Mais de 90 mapas coloridos
+- Fonte Leitura Perfeita, uma tipologia exclusiva que integra os melhores avanços em tipografia de Bíblias modernas
+- Texto da Bíblia em coluna única com miolo colorido
+- Texto completo da Nova Versão Internacional (NVI), uma tradução contemporânea e fiel aos originais
+- Costura perimetral e dois fitilhos marcadores
+
+Detalhes do produto:
+
+- ISBN-10: 6556892947
+- ISBN-13: 978-6556892948
+- Editora: Thomas Nelson Brasil; 1ª edição (15 janeiro 2023)
+- Idioma: Português
+- Encadernação de couro: 2720 páginas
+- Dimensões: 15.9 x 5.9 x 23.5 cm
+
+**Link para comprar:**
+
+[https://amzn.to/3JflHsX](https://amzn.to/3JflHsX)

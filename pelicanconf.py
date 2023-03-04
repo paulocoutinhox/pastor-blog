@@ -82,7 +82,10 @@ RELATED_POSTS_MAX = 20
 TAG_URL = "tag/{slug}.html"
 
 # Blogroll
-LINKS = (("IPDV", "https://www.facebook.com/igrejapdv/"),)
+LINKS = (
+    ("Galerias de Fotos", "https://galeria.pastorpaulo.com"),
+    ("IPDV", "https://www.facebook.com/igrejapdv/"),
+)
 
 # Social widget
 SOCIAL = (
@@ -98,7 +101,7 @@ if USE_THEME == "nid":
 elif USE_THEME == "flex":
     THEME = "vendor/themes/flex"
 
-MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html")]
+MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html"), ("Galerias de fotos", "https://galeria.pastorpaulo.com")]
 
 if USE_THEME == "nid":
     MENUITEMS.insert(0, ("Início", "/"))
