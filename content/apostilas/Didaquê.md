@@ -2,7 +2,7 @@ Title: Didaquê
 Date: 2018-04-20 18:00
 Author: Pastor Paulo Coutinho
 Category: apostilas
-Tags: apostila, didaquê, apóstolos
+Tags: apostila, didaquê, apóstolo, batismo, eucaristia
 Summary: Apostila sobre o Didaquê
 
 Apostila sobre o Didaquê.
