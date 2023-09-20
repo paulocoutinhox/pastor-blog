@@ -153,7 +153,7 @@ EXTRA_PATH_METADATA = {
 
 if USE_THEME == "nid":
     # use minified CSS
-    NID_MINIFY_CSS = False
+    NID_MINIFY_CSS = True
 
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
