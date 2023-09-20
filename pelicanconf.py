@@ -5,6 +5,8 @@ from datetime import datetime
 PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
 USE_THEME = "nid"  # nid or flex
 
+CURRENT_DATETIME = datetime.now().timestamp()
+
 AUTHOR = "Pastor Paulo Coutinho"
 SITENAME = "Pastor Paulo Coutinho"
 SITETITLE = "Pastor Paulo Coutinho"
@@ -101,7 +103,11 @@ if USE_THEME == "nid":
 elif USE_THEME == "flex":
     THEME = "vendor/themes/flex"
 
-MENUITEMS = [("Categorias", "/categories.html"), ("Tags", "/tags.html"), ("Galerias de fotos", "https://galeria.pastorpaulo.com")]
+MENUITEMS = [
+    ("Categorias", "/categories.html"),
+    ("Tags", "/tags.html"),
+    ("Galerias de fotos", "https://galeria.pastorpaulo.com"),
+]
 
 if USE_THEME == "nid":
     MENUITEMS.insert(0, ("Início", "/"))
@@ -147,10 +153,13 @@ EXTRA_PATH_METADATA = {
 
 if USE_THEME == "nid":
     # use minified CSS
-    NID_MINIFY_CSS = True
+    NID_MINIFY_CSS = False
 
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
+    NID_HEADER_BANNERS = [
+        {"image": "images/banners/banner-avinu.jpg", "link": "https://youtube.com/@avinuteologia"},
+    ]
 
     # footer
     NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
