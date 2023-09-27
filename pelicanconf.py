@@ -158,7 +158,7 @@ if USE_THEME == "nid":
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
     NID_HEADER_BANNERS = [
-        {"image": "images/banners/banner-avinu.jpg", "link": "https://youtube.com/@avinuteologia"},
+        {"image": "images/banners/banner-avinu-teologia.jpg", "link": "https://youtube.com/@avinuteologia"},
     ]
 
     # footer
