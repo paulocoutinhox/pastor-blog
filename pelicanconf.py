@@ -153,14 +153,14 @@ EXTRA_PATH_METADATA = {
 }
 
 if USE_THEME == "nid":
-    # use minified CSS
+    # use minified css
     NID_MINIFY_CSS = True
 
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
-    NID_HEADER_BANNERS = [
-        {"image": "images/banners/banner-avinu-teologia.jpg", "link": "https://youtube.com/@avinuteologia"},
-    ]
+    # NID_HEADER_BANNERS = [
+    #     {"image": "images/banners/banner-avinu-teologia.jpg", "link": "https://youtube.com/@avinuteologia"},
+    # ]
 
     # footer
     NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
