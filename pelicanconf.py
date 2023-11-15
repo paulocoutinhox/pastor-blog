@@ -140,6 +140,7 @@ STATIC_PATHS = ["images", "extras", "static"]
 EXTRA_PATH_METADATA = {
     "extras/CNAME": {"path": "CNAME"},
     "extras/robots.txt": {"path": "robots.txt"},
+    "extras/ads.txt": {"path": "ads.txt"},
     "extras/favicon/android-chrome-192x192.png": {"path": "android-chrome-192x192.png"},
     "extras/favicon/android-chrome-512x512.png": {"path": "android-chrome-512x512.png"},
     "extras/favicon/apple-touch-icon.png": {"path": "apple-touch-icon.png"},
