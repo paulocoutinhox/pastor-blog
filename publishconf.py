@@ -23,17 +23,16 @@ DELETE_OUTPUT_DIRECTORY = True
 DISQUS_SITENAME = "pastor-paulo"
 GOOGLE_ANALYTICS = "G-19HME37XFP"
 MICROSOFT_CLARITY = "d1r7jqisp3"
-GOOGLE_ADSENSE_AUTO = ""
+
+GOOGLE_ADSENSE_PUB_ID = "ca-pub-4093832476308450"
 
 GOOGLE_ADSENSE_TOP = {
-    "id": "ca-pub-4093832476308450",
     "slot": "1473086549",
     "format": "auto",
     "responsive": True
 }
 
 GOOGLE_ADSENSE_BOTTOM = {
-    "id": "ca-pub-4093832476308450",
     "slot": "7100817748",
     "format": "auto",
     "responsive": True
