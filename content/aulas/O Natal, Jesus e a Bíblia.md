@@ -36,4 +36,4 @@ Tópicos:
 - Precisamos sempre lembrar que com o natal de Jesus também nasceu a misericórdia universal, nasceu a salvação, nasceu a luz em meio às trevas, nasceu a esperança e nasceu a alegria de ser parte do reino de Deus como filho
 
 
-[Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/6d959p3cspdukmy/Aula%20EBD%20-%20O%20Natal%2C%20Jesus%20e%20a%20B%C3%ADblia%20-%2011_12_2022%20%28Paulo%20Coutinho%27s%20conflicted%20copy%202022-12-09%29.pdf?dl=1)
+[Clique aqui para baixar a apostila completa](https://www.dropbox.com/scl/fi/giutggj3yhj7hf1uhg3o3/Aula-EBD-O-Natal-Jesus-e-a-B-blia-11_12_2022.pdf?rlkey=5dde9fs89u2cn3qls4c2g3u4q&dl=1)
