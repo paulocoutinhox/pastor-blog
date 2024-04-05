@@ -33,7 +33,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3r8D8l3](https://amzn.to/3r8D8l3)
+[https://shope.ee/1VcEy6tGPH3](https://shope.ee/1VcEy6tGPH)
 
 
 ### Bíblia de Estudo Arqueológica - NVI
@@ -73,7 +73,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3xVQfcQ](https://amzn.to/3xVQfcQ)
+[https://shope.ee/6AO4WjIgfk](https://shope.ee/6AO4WjIgfk)
 
 ### Bíblia de Estudo Cronológica - Aplicação Pessoal
 
@@ -112,7 +112,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3BPVpIP](https://amzn.to/3BPVpIP)
+[https://shope.ee/LQHa2MQ1k](https://shope.ee/LQHa2MQ1k)
 
 ### Bíblia King James 1611 de Estudo Holman
 
@@ -145,7 +145,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3dQXdJx](https://amzn.to/3dQXdJx)
+[https://shope.ee/7fCsJXbt8k](https://shope.ee/7fCsJXbt8k)
 
 ### Bíblia de Estudo do Expositor - Jimmy Swaggart
 
@@ -167,7 +167,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3DZTtjx](https://amzn.to/3DZTtjx)
+[https://shope.ee/2VUmA4hYBi](https://shope.ee/2VUmA4hYBi)
 
 ### Bíblia de Estudo Palavras Chave - Hebraico e Grego
 
@@ -190,7 +190,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3rf6tdE](https://amzn.to/3rf6tdE)
+[https://shope.ee/30R2l0x32q](https://shope.ee/30R2l0x32q)
 
 ### Bíblia de Estudo Pentecostal
 
@@ -222,7 +222,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3xUvbnm](https://amzn.to/3xUvbnm)
+[https://shope.ee/8A98uXGdov](https://shope.ee/8A98uXGdov)
 
 ### Bíblia de Estudo NAA: Nova Almeida Atualizada (NAA)
 
@@ -250,7 +250,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3LN5ZEN](https://amzn.to/3LN5ZEN)
+[https://shope.ee/7UtS7LDyIl](https://shope.ee/7UtS7LDyIl)
 
 ### Bíblia Apologética com Apócrifos - ICP
 
@@ -274,7 +274,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3Sf7mP4](https://amzn.to/3Sf7mP4)
+[https://shope.ee/1fvfAeM2Az](https://shope.ee/1fvfAeM2Az)
 
 ### Bíblia de Estudo Plenitude - Almeida Revista e Corrigida
 
@@ -299,7 +299,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3Szn2wo](https://amzn.to/3Szn2wo)
+[https://shope.ee/8KSZ6vn7Fz](https://shope.ee/8KSZ6vn7Fz)
 
 ### Bíblia de Estudo NTLH - Nova Tradução na Linguagem de Hoje
 
@@ -324,7 +324,7 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3ShK8rK](https://amzn.to/3ShK8rK)
+[https://shope.ee/1AzOZmeSi9](https://shope.ee/1AzOZmeSi9)
 
 ### Bíblia de Estudo Thomas Nelson - Nova Versão Internacional
 
@@ -360,4 +360,4 @@ Detalhes do produto:
 
 **Link para comprar:**
 
-[https://amzn.to/3JflHsX](https://amzn.to/3JflHsX)
+[https://shope.ee/3L3t9n98Gt](https://shope.ee/3L3t9n98Gt)

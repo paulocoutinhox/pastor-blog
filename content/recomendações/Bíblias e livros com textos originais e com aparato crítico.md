@@ -37,7 +37,7 @@ Pela primeira vez, esta obra recebe introdução em português. Editada sob a co
 
 **Link para comprar:**
 
-[https://amzn.to/3M7d6Yk](https://amzn.to/3M7d6Yk)
+[https://shope.ee/3VNJM8GcvY](https://shope.ee/3VNJM8GcvY)
 
 
 ### Septuaginta
@@ -64,7 +64,7 @@ Edição crítica da famosa tradução judaica do Antigo Testamento para o grego
 
 **Link para comprar:**
 
-[https://amzn.to/3kW5Lia](https://amzn.to/3kW5Lia)
+[https://shope.ee/8pOphxmiRu](https://shope.ee/8pOphxmiRu)
 
 
 ### Biblia Sacra Vulgata (Vulgata Latina)
@@ -91,7 +91,7 @@ Quarta edição corrigida, de 1994, baseia-se na edição do Antigo Testamento d
 
 **Link para comprar:**
 
-[https://amzn.to/3wjiS1Z](https://amzn.to/3wjiS1Z)
+[https://shope.ee/7Ka1vEVcUS](https://shope.ee/7Ka1vEVcUS)
 
 
 ### O Novo Testamento Grego: 5ª Edição Revisada
@@ -118,7 +118,7 @@ Quinta edição revisada do Novo Testamento Grego. O texto grego, estabelecido p
 
 **Link para comprar:**
 
-[https://amzn.to/3vYluDE](https://amzn.to/3vYluDE)
+[https://shope.ee/50C78xvppo](https://shope.ee/50C78xvppo)
 
 
 ### Novum Testamentum Graece: Nestle-Aland - NA28
@@ -144,7 +144,7 @@ Esta é a 28ª edição do Novum Testamentum Graece, obra também conhecida como
 
 **Link para comprar:**
 
-[https://amzn.to/3vZXH6u](https://amzn.to/3vZXH6u)
+[https://shope.ee/1fvfArL2qv](https://shope.ee/1fvfArL2qv)
 
 
 ### Dicionário Grego-Português do Novo Testamento: Edição Acadêmica

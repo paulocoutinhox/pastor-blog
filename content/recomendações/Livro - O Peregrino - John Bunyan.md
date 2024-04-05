@@ -18,4 +18,4 @@ Porém, acima de tudo O Peregrino é uma obra de fácil entendimento, com uma na
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3FtJXnB)
+[Clique aqui para comprar](https://shope.ee/30R2lSLPMH)

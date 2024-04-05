@@ -52,4 +52,4 @@ Referência: [https://ministeriofiel.com.br/artigos/david-brainerd/](https://min
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3wgq6E5)
+[Clique aqui para comprar](https://shope.ee/Vjhmm20eX)

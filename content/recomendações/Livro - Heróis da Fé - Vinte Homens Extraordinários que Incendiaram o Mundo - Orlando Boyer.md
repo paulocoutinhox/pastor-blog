@@ -40,4 +40,4 @@ Em cada capítulo, uma nova biografia, trazendo desde a juventude ao fim do mini
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3P2ZDTb)
+[Clique aqui para comprar](https://shope.ee/8f5PV2XyGw)

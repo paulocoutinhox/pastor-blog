@@ -53,11 +53,11 @@ Junto com o curso em vídeo você pode baixar a apostila com os slides apresenta
 
 Outras fontes muito boas e completas se encontram nestes três livros, que inclusive foram citados nos vídeos:
 
-[<img src="{static}/images/livros/historia-ilustrada-cristianismo-box.jpg" alt="História ilustrada do Cristianismo" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://amzn.to/3wkhQmJ)
+[<img src="{static}/images/livros/historia-ilustrada-cristianismo-box.jpg" alt="História ilustrada do Cristianismo" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://shope.ee/8A98uDbmXS)
 
-[<img src="{static}/images/livros/cristianismo-atraves-dos-seculos.jpg" alt="Cristianismo através dos séculos" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://amzn.to/39PBYWa)
+[<img src="{static}/images/livros/cristianismo-atraves-dos-seculos.jpg" alt="Cristianismo através dos séculos" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://shope.ee/4psgw8a85A)
 
-[<img src="{static}/images/livros/historia-eclesiastica.jpg" alt="História Eclesiástica" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://www.cpad.com.br/historia-eclesiastica-105599/p)
+[<img src="{static}/images/livros/historia-eclesiastica.jpg" alt="História Eclesiástica" style="max-width: 200px; margin-top: 0; margin-bottom: 0;">](https://shope.ee/5AVXKluO0n)
 
 #### Outras referências:
 

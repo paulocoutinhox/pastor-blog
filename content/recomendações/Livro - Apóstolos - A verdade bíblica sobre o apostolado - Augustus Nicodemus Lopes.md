@@ -49,4 +49,4 @@ Este livro é fruto de um cuidadoso e profundo estudo bíblico, realizado pelo a
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3NCGLbY)
+[Clique aqui para comprar](https://shope.ee/g37z6N6hv)

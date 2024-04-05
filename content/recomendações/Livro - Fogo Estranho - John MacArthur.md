@@ -31,4 +31,4 @@ Quem questiona esse tipo de interpretação da obra do Espírito Santo vai encon
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3GsPqeE)
+[Clique aqui para comprar](https://shope.ee/6zxBWlTFlW)

@@ -37,4 +37,4 @@ Por Que Confiar na Bíblia? é uma resposta a esse desafio. Com sensibilidade e 
 
 ### Comprar
 
-[Clique aqui para comprar](https://amzn.to/3zuIGuS)
+[Clique aqui para comprar](https://shope.ee/6fKL8EFN8C)
