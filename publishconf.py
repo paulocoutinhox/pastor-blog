@@ -26,14 +26,14 @@ MICROSOFT_CLARITY = "d1r7jqisp3"
 
 GOOGLE_ADSENSE_PUB_ID = "ca-pub-4093832476308450"
 
-GOOGLE_ADSENSE_TOP = {
-    "slot": "1473086549",
-    "format": "auto",
-    "responsive": True
-}
+# GOOGLE_ADSENSE_TOP = {
+#     "slot": "1473086549",
+#     "format": "auto",
+#     "responsive": True
+# }
 
-GOOGLE_ADSENSE_BOTTOM = {
-    "slot": "7100817748",
-    "format": "auto",
-    "responsive": True
-}
+# GOOGLE_ADSENSE_BOTTOM = {
+#     "slot": "7100817748",
+#     "format": "auto",
+#     "responsive": True
+# }

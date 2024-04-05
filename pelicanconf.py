@@ -158,9 +158,11 @@ if USE_THEME == "nid":
 
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
-    # NID_HEADER_BANNERS = [
-    #     {"image": "images/banners/banner-avinu-teologia.jpg", "link": "https://youtube.com/@avinuteologia"},
-    # ]
+    NID_HEADER_BANNERS = [
+        {"image": "images/banners/banner-curso1.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
+        {"image": "images/banners/banner-curso2.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
+    ]
+    NID_HEADER_BANNERS_NAVIGATORS = True
 
     # footer
     NID_SITEMAP_COLUMN_TITLE = "Mapa do site"
