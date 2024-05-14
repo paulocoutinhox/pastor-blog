@@ -159,6 +159,7 @@ if USE_THEME == "nid":
     # add header background image from content/images : 'background.jpg'
     NID_HEADER_IMAGES = ""
     NID_HEADER_BANNERS = [
+        {"image": "images/banners/banner-biblemania1.jpg", "link": "https://paulocoutinho.pages.dev/biblemania/home/"},
         {"image": "images/banners/banner-curso1.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
         {"image": "images/banners/banner-curso2.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
     ]
