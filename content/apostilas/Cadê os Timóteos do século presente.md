@@ -2,16 +2,16 @@ Title: Cadê os Timóteos do século presente
 Date: 2013-07-26 18:00
 Author: Pastor Paulo Coutinho
 Category: apostilas
-Tags: apostila, movimento, apostólico, célula, m12, g12, mda, timóteo
+Tags: apóstolo, apostila, movimento, apostólico, célula, m12, g12, mda, timóteo
 Summary: Apostila sobre os Timóteos do século presente
 
 Apostila sobre os Timóteos do século presente.
 
 Tópicos:
 
-- Outros Nomes Deste Movimento:
+- Outros Nomes Deste Movimento
 - Origem
-- Sobre Vanilce
+- Sobre Valnice
 - Os Convertidos Ao Movimento G12
 - Técnicas Psicoterápicas
 - Perdoar A Deus
@@ -24,6 +24,5 @@ Tópicos:
 - Líderes
 - Sem Escola Bíblica
 - Declarações Do Terra Nova
-
 
 [Clique aqui para baixar a apostila completa](https://www.dropbox.com/s/o8lknd08cwuy4ge/Cad%C3%AA%20os%20Tim%C3%B3teos%20do%20s%C3%A9culo%20presente.pdf?dl=1)
