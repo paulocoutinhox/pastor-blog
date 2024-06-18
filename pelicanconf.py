@@ -101,7 +101,7 @@ RELATIVE_URLS = False
 if USE_THEME == "nid":
     THEME = "../nid"
 elif USE_THEME == "flex":
-    THEME = "vendor/themes/flex"
+    THEME = "/Users/paulo/Developer/workspaces/python/fluid-pelican"
 
 MENUITEMS = [
     ("Categorias", "/categories.html"),
@@ -116,7 +116,7 @@ THEME_COLOR = "light"
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
-USE_LESS = True
+USE_LESS = False
 CUSTOM_CSS = "static/css/custom.css"
 
 COPYRIGHT_YEAR = datetime.now().year

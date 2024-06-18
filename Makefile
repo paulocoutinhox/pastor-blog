@@ -95,8 +95,10 @@ setup:
 	mkdir -p vendor/themes
 
     # theme
-	git clone https://github.com/alexandrevicenzi/Flex.git vendor/themes/flex
+	#git clone https://github.com/alexandrevicenzi/Flex.git vendor/themes/flex
+	#git clone https://github.com/yagami26/Flex.git vendor/themes/flex
 	git clone https://github.com/paulocoutinhox/nid.git vendor/themes/nid
+	git clone https://github.com/paulocoutinhox/fluid-pelican.git vendor/themes/fluid-pelican
 
 format:
 	black .
