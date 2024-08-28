@@ -160,8 +160,8 @@ if USE_THEME == "nid":
     NID_HEADER_IMAGES = ""
     NID_HEADER_BANNERS = [
         {"image": "images/banners/banner-biblemania1.jpg", "link": "https://paulocoutinho.pages.dev/biblemania/home/"},
-        {"image": "images/banners/banner-curso1.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
-        {"image": "images/banners/banner-curso2.jpg", "link": "https://pay.kiwify.com.br/RDiITGI"},
+        {"image": "images/banners/banner-curso1.jpg", "link": "https://lojadgx.com/categoria/teologia/"},
+        {"image": "images/banners/banner-curso2.jpg", "link": "https://lojadgx.com/categoria/teologia/"},
     ]
     NID_HEADER_BANNERS_NAVIGATORS = True
 
