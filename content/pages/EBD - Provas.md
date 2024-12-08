@@ -7,6 +7,8 @@ Summary: Provas ministradas na Escola Bíblica
 
 <img src="{static}/images/headers/ebd-provas.jpg" alt="Escola Bíblica - Provas" class="center" style="margin-top: 0;">
 
+- [Prova EBD 36 - 2024 - O Deus que Governa o Mundo e Cuida da Família](https://www.dropbox.com/scl/fi/70kcqqsdtctp3t8jvbc9f/Prova-EBD-36-2024.pdf?rlkey=6ca5ofac35vc6fx7cr3imgmkh&dl=1)
+- [Prova EBD 35 - 2024 - A Carreira Que Nos Está Proposta](https://www.dropbox.com/scl/fi/j7xfyoq4eb183u6hoi051/Prova-EBD-35-2024.pdf?rlkey=ifom2c6fkuds1iyitwehvkzlc&dl=1)
 - [Prova EBD 34 - 2024 - Apocalipse](https://www.dropbox.com/scl/fi/6hcd4ggenji3wrywhefu5/Prova-EBD-34-2024.pdf?rlkey=rje5i9v8el0okc4hnzgpqltrh&dl=1)
 - [Prova EBD 33 - 2021 - O verdadeiro pentecostalismo](https://www.dropbox.com/s/zq7mgstkxxep1h4/Prova%20EBD%2033%20-%202021.pdf?dl=1)
 - [Prova EBD 32 - 2021 - A fragilidade humana e a soberania divina](https://www.dropbox.com/s/4qep4hlwagu7b3u/Prova%20EBD%2032%20-%202021.pdf?dl=1)
