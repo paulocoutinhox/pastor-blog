@@ -1,4 +1,4 @@
-Title: A Promessa de um Coração Novo
+Title: As promessas de Deus para a Igreja
 Date: 2024-11-03 18:00
 Author: Pastor Paulo Coutinho
 Category: aulas
