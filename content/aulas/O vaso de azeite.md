@@ -30,16 +30,5 @@ Tópicos:
 - Estevão, cheio de fé e poder, fazia prodígios e maravilhas (At 6:8-10).  
 - Nicolau de Antioquia (At 6:5) foi ligado ao movimento dos nicolaítas, odiado por Deus (Ap 2:6,15).  
 
-Tabela – Nicolau de Antioquia nas Fontes Antigas  
-
-| Autor                  | Século | Posição   | Acusação ou Defesa |
-|-------------------------|--------|-----------|---------------------|
-| Irineu de Lião          | II     | Acusador  | Fundador dos nicolaítas, idolatria e imoralidade (Ap 2:6,15). |
-| Hipólito de Roma        | III    | Acusador  | Ligado à vida impura e libertina. |
-| Epifânio de Salamina    | IV     | Acusador  | Teria dito “abusar da carne” e oferecido sua esposa. |
-| Clemente de Alexandria  | II–III | Defensor  | Foi mal interpretado; viveu casto. |
-| Eusébio de Cesareia     | IV     | Defensor  | Palavras distorcidas; nome usado indevidamente. |
-
-
 
 [Clique aqui para baixar a apostila completa](https://www.dropbox.com/scl/fi/qq74ftt1b59qvd6ery5z0/Aula-EBD-Uma-igreja-que-enfrenta-os-seus-problemas-24_08_2025.pdf?rlkey=5k4szpa4b9hbdhahuw9rtmluq&dl=1)
