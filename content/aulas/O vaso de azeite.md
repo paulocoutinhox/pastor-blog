@@ -1,5 +1,5 @@
 Title: Uma igreja que enfrenta os seus problemas  
-Date: 2025-08-25 18:00  
+Date: 2025-08-24 18:00  
 Author: Pastor Paulo Coutinho  
 Category: aulas  
 Tags: igreja, problemas, solucoes, discipulos, gregos, hebreus, viuvas, mathetes, discipulado, cristao, antioquia, palavra, diaconia, ministerio, servico, davi, samuel, organizacao, estavao, nicolau, nicolaítas, apocalipse  
